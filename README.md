@@ -6,6 +6,7 @@
 	4.根据CRF对文本内容进行实体识别。
 
 ## 2.代码结构说明
+	CRF_Call
 	————src
 	——————main
 	——————————IKsegment.java	分词工具
