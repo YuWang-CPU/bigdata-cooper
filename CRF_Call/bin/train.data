@@ -1,0 +1,12220 @@
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+天翼	3	0	0	0	0	NN	B-BUS
+闲时	0	0	0	0	0	AD	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	1	0	0	0	0	VV	I-BUS
+
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+闲时	0	0	0	0	0	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	1	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+首月	0	0	0	0	0	NN	O
+怎么	0	0	0	0	0	AD	O
+收费	0	0	0	0	0	VV	O
+
+天翼	3	0	0	0	0	NN	B-BUS
+闲时	0	0	0	0	0	AD	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	1	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+怎么	0	0	0	0	0	AD	O
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+闲时	0	0	0	0	0	AD	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	1	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+变更	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+闲时	0	0	0	0	0	JJ	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	1	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+档次	0	0	0	0	0	NN	O
+
+怎么	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+闲时	0	0	0	0	0	AD	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	1	0	0	0	0	VV	I-BUS
+
+天翼	3	0	0	0	0	NN	B-BUS
+闲时	0	0	0	0	0	AD	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	1	0	0	0	0	VV	I-BUS
+是	0	0	0	0	0	VC	O
+省内	0	0	0	0	0	NN	O
+还是	0	0	0	0	0	CC	O
+国内	0	0	0	0	0	NN	O
+流量	0	0	0	0	0	NN	O
+
+只	0	0	0	0	0	AD	O
+在	0	0	0	0	0	P	O
+晚上	0	0	0	0	0	NT	O
+使用	0	0	0	0	0	VV	O
+手机	0	0	0	0	0	NN	O
+上网	0	0	0	0	0	VV	O
+有	0	0	0	0	0	VE	O
+什么	0	0	0	0	0	DT	O
+套餐	0	0	0	0	0	NN	O
+可以	0	0	0	0	0	VV	O
+选择	0	0	0	0	0	VV	O
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+微	0	0	0	0	0	AD	O
+信	0	0	0	0	0	VV	O
+流量	0	0	0	0	0	NN	O
+礼包	0	0	0	0	0	NN	O
+
+微	0	0	0	0	0	AD	O
+信	0	0	0	0	0	VV	O
+流量	0	0	0	0	0	NN	O
+礼包	0	0	0	0	0	NN	O
+的	0	0	0	0	0	DEG	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+怎么	0	0	0	0	0	AD	O
+使用	0	0	0	0	0	VV	O
+微	0	0	0	0	0	AD	O
+信	0	0	0	0	0	VV	O
+流量	0	0	0	0	0	NN	O
+礼包	0	0	0	0	0	NN	O
+
+使用	0	0	0	0	0	VV	O
+微	0	0	0	0	0	AD	O
+信	0	0	0	0	0	VV	O
+流量	0	0	0	0	0	NN	O
+礼包	0	0	0	0	0	NN	O
+怎么	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+流量	0	0	0	0	0	NN	O
+银行	0	0	0	0	0	NN	O
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+流量	0	0	0	0	1	NN	B-BUS
+family	0	0	0	1	0	AD	I-BUS
+共享	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+流量	0	0	0	0	1	NN	B-BUS
+family	0	0	0	1	0	AD	I-BUS
+共享	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+怎么	0	0	0	0	0	AD	O
+办理	0	0	0	0	0	VV	O
+流量	0	0	0	0	1	NN	B-BUS
+family	0	0	0	1	0	NN	I-BUS
+共享	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+流量	0	0	0	0	1	NN	B-BUS
+family	0	0	0	1	0	AD	I-BUS
+共享	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+通过	0	0	0	0	0	P	O
+天翼	3	0	0	0	0	NN	B-BUS
+生活	0	0	0	0	0	NN	I-BUS
+客户端	0	0	0	0	1	NN	I-BUS
+如何	0	0	0	0	0	AD	O
+关闭	0	0	0	0	0	VV	O
+手机	0	0	0	0	0	NN	O
+上网	0	0	0	0	0	VV	O
+包	0	0	0	0	0	VV	O
+
+通过	0	0	0	0	0	P	O
+天翼	3	0	0	0	0	NN	B-BUS
+生活	0	0	0	0	0	NN	I-BUS
+客户端	0	0	0	0	1	NN	I-BUS
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+手机	0	0	0	0	0	NN	O
+上网	0	0	0	0	0	VV	O
+包	0	0	0	0	0	VV	O
+
+怎么	0	0	0	0	0	AD	O
+变更	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+上网	0	0	0	0	1	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+通过	0	0	0	0	0	P	O
+中国电信	0	0	0	0	0	NR	O
+江苏	0	0	0	0	0	NR	O
+客服	0	0	0	0	0	NN	O
+微	0	0	0	0	0	AD	O
+信	0	0	0	0	0	VV	O
+公众	0	0	0	0	0	NN	O
+号	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+手机	0	0	0	0	0	NN	O
+上网	0	0	0	0	0	VV	O
+包	0	0	0	0	0	VV	O
+
+通过	0	0	0	0	0	P	O
+中国电信	0	0	0	0	0	NR	O
+欢	0	0	0	0	1	VV	B-BUS
+go	0	0	0	1	0	VV	I-BUS
+网站	0	0	0	0	1	NN	I-BUS
+www.189.cn	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+关闭	0	0	0	0	0	VV	O
+手机	0	0	0	0	0	NN	O
+上网	0	0	0	0	0	VV	O
+包	0	0	0	0	0	VV	O
+
+通过	0	0	0	0	0	P	O
+中国电信	0	0	0	0	0	NR	O
+欢	0	0	0	0	1	VV	B-BUS
+go	0	0	0	1	0	VV	I-BUS
+网站	0	0	0	0	1	NN	I-BUS
+www.189.cn	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+手机	0	0	0	0	1	NN	B-BUS
+上网	0	0	0	0	1	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	0	NN	O
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+关闭	0	0	0	0	0	VV	O
+手机	0	0	0	0	1	NN	B-BUS
+上网	0	0	0	0	1	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	0	NN	O
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+100元	0	0	0	0	0	CD	O
+3g	0	1	0	0	0	M	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+上网	0	0	0	0	1	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	1	NN	B-BUS
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+10元	0	0	0	0	0	NT	O
+100m	0	0	0	0	0	NT	O
+手机	0	0	0	0	1	NN	B-BUS
+上网	0	0	0	0	1	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	1	NN	B-BUS
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+20元	0	0	0	0	0	NT	O
+300m	0	0	0	0	0	NT	O
+手机	0	0	0	0	1	NN	B-BUS
+上网	0	0	0	0	1	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	0	NN	O
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+30元	0	0	0	0	0	CD	O
+500m	0	0	0	0	0	M	O
+手机	0	0	0	0	1	NN	B-BUS
+上网	0	0	0	0	1	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+上网	0	0	0	0	1	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+上网	0	0	0	0	1	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+首月	0	0	0	0	0	NN	O
+怎么	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+上网	0	0	0	0	1	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	DEC	O
+
+我	0	0	0	0	0	PN	O
+的	0	0	0	0	0	DEG	O
+手机	0	0	0	0	0	NN	O
+流量	0	0	0	0	0	NN	O
+不够用	0	0	0	0	0	NN	O
+怎么办	0	0	0	0	0	VV	O
+
+怎么	0	0	0	0	0	AD	O
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+上网	0	0	0	0	1	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+上网	0	0	0	0	1	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	1	NN	B-BUS
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+50元	0	0	0	0	0	CD	O
+1g	0	0	0	0	0	M	O
+手机	0	0	0	0	0	NN	O
+上网	0	0	0	0	0	VV	O
+包	0	0	0	0	0	VV	O
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	0	NN	O
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+70元	0	0	0	0	0	CD	O
+2g	0	0	0	0	0	M	O
+手机	0	0	0	0	0	NN	O
+上网	0	0	0	0	0	VV	O
+包	0	0	0	0	0	VV	O
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+畅	0	0	0	0	0	VA	I-BUS
+聊	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+畅	0	0	0	0	0	VA	I-BUS
+聊	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+首月	0	0	0	0	0	NN	O
+怎么	0	0	0	0	0	AD	O
+收费	0	0	0	0	0	VV	O
+
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+畅	0	0	0	0	0	VA	I-BUS
+聊	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+怎样	0	0	0	0	0	AD	O
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+畅	0	0	0	0	0	VA	I-BUS
+聊	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+畅	0	0	0	0	0	VA	I-BUS
+聊	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+什么时候	0	0	0	0	0	AD	O
+生效	0	0	0	0	0	VV	O
+
+变更	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+畅	0	0	0	0	0	VA	I-BUS
+聊	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+什么时候	0	0	0	0	0	AD	O
+生效	0	0	0	0	0	VV	O
+
+取消	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+畅	0	0	0	0	0	VA	I-BUS
+聊	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+什么时候	0	0	0	0	0	AD	O
+失效	0	0	0	0	0	VV	O
+
+怎样	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+畅	0	0	0	0	0	VA	I-BUS
+聊	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+变更	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+哪些	0	0	0	0	0	DT	O
+客户	0	0	0	0	0	NN	O
+可以	0	0	0	0	0	VV	O
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+客户	0	0	0	0	0	NN	O
+办	0	0	0	0	0	VV	O
+理了	0	0	0	0	0	NN	O
+3g	0	1	0	0	0	NN	B-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	NN	I-BUS
+还	0	0	0	0	0	AD	O
+可以	0	0	0	0	0	VV	O
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+吗	0	0	0	0	0	SP	O
+
+办理	0	0	0	0	0	VV	O
+的	0	0	0	0	0	DEC	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+什么时候	0	0	0	0	0	AD	O
+生效	0	0	0	0	0	VV	O
+
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+只能	0	0	0	0	0	AD	O
+用于	0	0	0	0	0	VV	O
+4g	0	1	0	0	0	NN	B-BUS
+上网	0	0	0	0	1	NN	I-BUS
+吗	0	0	0	0	0	SP	O
+
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+包	0	0	0	0	0	NN	O
+内	0	0	0	0	0	LC	O
+流量	0	0	0	0	0	NN	O
+及	0	0	0	0	0	CC	O
+月	0	0	0	0	0	NN	O
+功能	0	0	0	0	0	NN	O
+费	0	0	0	0	0	NN	O
+计入	0	0	0	0	0	VV	O
+套餐	0	0	0	0	0	NN	O
+外	0	0	0	0	0	LC	O
+流量	0	0	0	0	0	NN	O
+15g	0	0	0	0	0	CD	O
+及	0	0	0	0	0	CC	O
+费用	0	0	0	0	0	NN	O
+600元	0	0	0	0	0	NN	O
+的	0	0	0	0	0	DEG	O
+封顶	0	0	0	0	0	NN	O
+值	0	0	0	0	0	VV	O
+计算	0	0	0	0	0	VV	O
+吗	0	0	0	0	0	SP	O
+
+怎么	0	0	0	0	0	AD	O
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+业务	0	0	0	0	0	NN	O
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+变更	0	0	0	0	0	NN	O
+什么时候	0	0	0	0	0	AD	O
+生效	0	0	0	0	0	VV	O
+
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+订购	0	0	0	0	0	VV	O
+首月	0	0	0	0	0	NN	O
+怎么	0	0	0	0	0	AD	O
+收费	0	0	0	0	0	VV	O
+
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+怎样	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+4g	0	1	0	0	0	NN	I-BUS
+升级	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+可视	0	0	0	0	0	JJ	B-BUS
+通话	0	0	0	0	1	NN	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+可视	0	0	0	0	0	JJ	B-BUS
+通话	0	0	0	0	1	NN	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+怎么	0	0	0	0	0	AD	O
+办理	0	0	0	0	0	VV	O
+可视	0	0	0	0	0	JJ	B-BUS
+通话	0	0	0	0	1	NN	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+可视	0	0	0	0	0	JJ	B-BUS
+通话	0	0	0	0	1	NN	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+流量	0	0	0	0	1	NN	B-BUS
+便利店	0	0	0	0	0	NN	I-BUS
+
+流量	0	0	0	0	1	NN	B-BUS
+便利店	0	0	0	0	0	NN	I-BUS
+的	0	0	0	0	0	DEG	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+怎么	0	0	0	0	0	AD	O
+下载	0	0	0	0	0	VV	O
+流量	0	0	0	0	1	NN	B-BUS
+便利店	0	0	0	0	0	NN	I-BUS
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+爱	0	0	0	0	1	VV	B-BUS
+游戏	0	0	0	0	1	NN	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+办理	0	0	0	0	0	VV	O
+爱	0	0	0	0	1	VV	B-BUS
+游戏	0	0	0	0	1	NN	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+爱	0	0	0	0	1	VV	B-BUS
+游戏	0	0	0	0	1	NN	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+爱	0	0	0	0	1	VV	B-BUS
+游戏	0	0	0	0	1	NN	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+首月	0	0	0	0	0	NN	O
+怎么	0	0	0	0	0	AD	O
+收费	0	0	0	0	0	VV	O
+
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+怎么	0	0	0	0	0	AD	O
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+哪些	0	0	0	0	0	DT	O
+客户	0	0	0	0	0	NN	O
+可以	0	0	0	0	0	VV	O
+办理	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+天翼	3	0	0	0	0	NN	B-BUS
+手机	0	0	0	0	1	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+中	0	0	0	0	0	LC	O
+是	0	0	0	0	0	VC	O
+省内	0	0	0	0	0	NN	O
+还是	0	0	0	0	0	CC	O
+国内	0	0	0	0	0	NN	O
+流量	0	0	0	0	0	NN	O
+
+通过	0	0	0	0	0	P	O
+中国电信	0	0	0	0	0	NR	B-BUS
+欢	0	0	0	0	1	VV	I-BUS
+go	0	0	1	0	0	VV	I-BUS
+网站	0	0	0	0	1	NN	I-BUS
+www.189.cn	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+办理	0	0	0	0	0	VV	O
+流量	0	0	0	0	0	NN	B-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	1	NN	B-BUS
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+100元	0	0	0	0	0	CD	O
+3g	0	1	0	0	0	M	B-BUS
+流量	0	0	0	0	1	NN	I-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+业务	0	0	0	0	0	NN	O
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	1	NN	B-BUS
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+10元	0	0	0	0	0	NT	O
+100m	0	0	0	0	0	NT	O
+流量	0	0	0	0	1	NN	B-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+业务	0	0	0	0	0	NN	O
+
+流量	0	0	0	0	1	NN	B-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+首月	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+收费	0	0	0	0	0	VV	O
+
+通过	0	0	0	0	0	P	O
+中国电信	0	0	0	0	0	NR	O
+江苏	0	0	0	0	0	NR	O
+客服	0	0	0	0	0	NN	O
+微	0	0	0	0	0	AD	O
+信	0	0	0	0	0	VV	O
+公众	0	0	0	0	0	NN	O
+号	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+流量	0	0	0	0	1	NN	B-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+业务	0	0	0	0	0	NN	O
+
+通过	0	0	0	0	0	P	O
+天翼	3	0	0	0	0	NN	B-BUS
+生活	0	0	0	0	0	NN	I-BUS
+客户端	0	0	0	0	1	NN	I-BUS
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+流量	0	0	0	0	1	NN	B-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+业务	0	0	0	0	0	NN	O
+
+通过	0	0	0	0	0	P	O
+短信	0	0	0	0	0	NN	O
+方式	0	0	0	0	0	NN	O
+如何	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+30元	0	0	0	0	0	CD	O
+500m	0	0	0	0	0	M	O
+流量	0	0	0	0	1	NN	B-BUS
+加餐	0	0	0	0	0	VV	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+天翼	3	0	0	0	0	NN	B-BUS
+7天	0	0	1	0	0	NT	I-BUS
+省内	1	0	0	0	0	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+天翼	3	0	0	0	0	NN	B-BUS
+7天	0	0	0	0	0	NT	I-BUS
+省内	1	0	0	0	0	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+怎么	0	0	0	0	0	AD	O
+开通	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+7天	0	0	0	0	0	NT	I-BUS
+省内	1	0	0	0	0	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+取消	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+7天	0	0	0	0	0	NT	I-BUS
+省内	1	0	0	0	0	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+怎么	0	0	0	0	0	AD	O
+查询	0	0	0	0	0	VV	O
+天翼	3	0	0	0	0	NN	B-BUS
+7天	0	0	0	0	0	NT	I-BUS
+省内	1	0	0	0	0	NN	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+使用情况	0	0	0	0	0	NN	O
+
+什么	0	0	0	0	0	PN	O
+是	0	0	0	0	0	VC	O
+腾讯	0	0	0	0	0	NR	B-BUS
+视频	0	0	0	0	1	NN	I-BUS
+10元	0	0	2	0	0	NT	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+
+腾讯	0	0	0	0	0	NR	B-BUS
+视频	0	0	0	0	1	NN	I-BUS
+10元	0	0	2	0	0	NT	I-BUS
+定向	0	0	0	0	0	VV	I-BUS
+流量	0	0	0	0	1	NN	I-BUS
+包	0	0	0	0	0	VV	I-BUS
+的	0	0	0	0	0	DEC	O
+费	0	0	0	0	0	NN	O
+用是	0	0	0	0	0	AD	O
+如何	0	0	0	0	0	AD	O
+收取	0	0	0	0	0	VV	O
+的	0	0	0	0	0	SP	O
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+闲时	AD	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+天翼	NN	O	B-BUS
+闲时	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+天翼	NN	O	B-BUS
+闲时	AD	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+闲时	AD	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+变更	VV	O	O
+天翼	NN	O	B-BUS
+闲时	JJ	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+档次	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+闲时	AD	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+闲时	AD	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+是	VC	O	O
+省内	NN	O	O
+还是	CC	O	O
+国内	NN	O	O
+流量	NN	O	O
+
+只	AD	O	O
+在	P	O	O
+晚上	NT	O	O
+使用	VV	O	O
+手机	NN	O	O
+上网	VV	O	O
+有	VE	O	O
+什么	DT	O	O
+套餐	NN	O	O
+可以	VV	O	O
+选择	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+微	AD	O	O
+信	VV	O	O
+流量	NN	O	O
+礼包	NN	O	O
+
+微	AD	O	O
+信	VV	O	O
+流量	NN	O	O
+礼包	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+使用	VV	O	O
+微	AD	O	O
+信	VV	O	O
+流量	NN	O	O
+礼包	NN	O	O
+
+使用	VV	O	O
+微	AD	O	O
+信	VV	O	O
+流量	NN	O	O
+礼包	NN	O	O
+怎么	AD	O	O
+取消	VV	O	O
+流量	NN	O	B-BUS
+银行	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+流量	NN	O	B-BUS
+family	AD	O	I-BUS
+共享	VV	O	I-BUS
+包	VV	O	I-BUS
+
+流量	NN	O	B-BUS
+family	AD	O	I-BUS
+共享	VV	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+流量	NN	O	B-BUS
+family	NN	O	I-BUS
+共享	VV	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+流量	NN	O	B-BUS
+family	AD	O	I-BUS
+共享	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+关闭	VV	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+开通	VV	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+变更	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+中国电信	NR	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+网站	NN	O	I-BUS
+www.189.cn	NN	O	O
+如何	AD	O	O
+关闭	VV	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+中国电信	NR	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+网站	NN	O	I-BUS
+www.189.cn	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+关闭	VV	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+100元	CD	O	O
+3g	M	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+10元	NT	O	O
+100m	NT	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+20元	NT	O	O
+300m	NT	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+30元	CD	O	O
+500m	M	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收取	VV	O	O
+
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	DEC	O	O
+我	PN	O	O
+的	DEG	O	O
+手机	NN	O	O
+流量	NN	O	O
+不够用	NN	O	O
+怎么办	VV	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+50元	CD	O	O
+1g	M	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+70元	CD	O	O
+2g	M	O	O
+手机	NN	O	B-BUS
+上网	VV	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+畅	VA	O	I-BUS
+聊	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+畅	VA	O	I-BUS
+聊	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+畅	VA	O	I-BUS
+聊	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+畅	VA	O	I-BUS
+聊	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+畅	VA	O	I-BUS
+聊	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+变更	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+畅	VA	O	I-BUS
+聊	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+畅	VA	O	I-BUS
+聊	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+失效	VV	O	O
+
+怎样	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+畅	VA	O	I-BUS
+聊	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+变更	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+客户	NN	O	O
+办	VV	O	O
+理了	NN	O	O
+3g	NN	O	B-BUS
+流量	NN	O	I-BUS
+包	NN	O	I-BUS
+还	AD	O	O
+可以	VV	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+吗	SP	O	O
+
+办理	VV	O	O
+的	DEC	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+只能	AD	O	O
+用于	VV	O	O
+4g	NN	O	B-BUS
+上网	NN	O	I-BUS
+吗	SP	O	O
+
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+包	NN	O	O
+内	LC	O	O
+流量	NN	O	O
+及	CC	O	O
+月	NN	O	O
+功能	NN	O	O
+费	NN	O	O
+计入	VV	O	O
+套餐	NN	O	O
+外	LC	O	O
+流量	NN	O	O
+15g	CD	O	O
+及	CC	O	O
+费用	NN	O	O
+600元	NN	O	O
+的	DEG	O	O
+封顶	NN	O	O
+值	VV	O	O
+计算	VV	O	O
+吗	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	NN	O	I-BUS
+业务	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+变更	NN	O	O
+什么时候	AD	O	O
+生效	VV	O	O
+
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+订购	VV	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+4g	NN	O	I-BUS
+升级	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+可视	JJ	O	B-BUS
+通话	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+可视	JJ	O	B-BUS
+通话	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+可视	JJ	O	B-BUS
+通话	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+可视	JJ	O	B-BUS
+通话	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+流量	NN	O	B-BUS
+便利店	NN	O	I-BUS
+
+流量	NN	O	B-BUS
+便利店	NN	O	I-BUS
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+下载	VV	O	O
+流量	NN	O	B-BUS
+便利店	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+加餐	VV	O	I-BUS
+包	NN	O	I-BUS
+中	LC	O	O
+是	VC	O	O
+省内	NN	O	O
+还是	CC	O	O
+国内	NN	O	O
+流量	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+网站	NN	O	I-BUS
+www.189.cn	NN	O	O
+如何	AD	O	O
+办理	VV	O	O
+流量	NN	O	B-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+100元	CD	O	O
+3g	M	O	B-BUS
+流量	NN	O	I-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+业务	NN	O	O
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+10元	NT	O	O
+100m	NT	O	O
+流量	NN	O	B-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+业务	NN	O	O
+
+流量	NN	O	B-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+流量	NN	O	B-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+业务	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+开通	VV	O	O
+流量	NN	O	B-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+业务	NN	O	O
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+30元	CD	O	O
+500m	M	O	O
+流量	NN	O	B-BUS
+加餐	VV	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+7天	NT	O	I-BUS
+省内	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+7天	NT	O	I-BUS
+省内	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+天翼	NN	O	B-BUS
+7天	NT	O	I-BUS
+省内	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+7天	NT	O	I-BUS
+省内	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+查询	VV	O	O
+天翼	NN	O	B-BUS
+7天	NT	O	I-BUS
+省内	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+使用情况	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+腾讯	NR	O	B-BUS
+视频	NN	O	I-BUS
+10元	NT	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+腾讯	NR	O	B-BUS
+视频	NN	O	I-BUS
+10元	NT	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+腾讯	NR	O	B-BUS
+视频	NN	O	I-BUS
+10元	NT	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+腾讯	NR	O	B-BUS
+视频	NN	O	I-BUS
+10元	NT	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+7天	NT	O	I-BUS
+全国	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	NN	O	I-BUS
+
+天翼	NN	O	B-BUS
+7天	NT	O	I-BUS
+全国	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+开通	VV	O	O
+天翼	NN	O	B-BUS
+7天	NT	O	I-BUS
+全国	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	NN	O	I-BUS
+
+怎样	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+7天	NT	O	I-BUS
+全国	NN	O	I-BUS
+流量	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+24小时	NT	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+24小时	NT	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+24小时	NT	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+24小时	NT	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+24小时	NT	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+查询	VV	O	O
+天翼	NN	O	B-BUS
+24小时	NT	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费用	NN	O	O
+使用情况	NN	O	O
+
+办理	VV	O	O
+的	DEC	O	O
+天翼	NN	O	B-BUS
+24小时	NT	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+查询	VV	O	O
+天翼	NN	O	B-BUS
+24小时	NT	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+流量	NN	O	B-BUS
+使用情况	NN	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+多米	NR	O	B-BUS
+音乐	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+多米	NR	O	B-BUS
+音乐	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+多米	NR	O	B-BUS
+音乐	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+多米	NR	O	B-BUS
+音乐	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+多米	NR	O	B-BUS
+音乐	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+多米	NR	O	B-BUS
+音乐	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+变更	VV	O	O
+取消	VV	O	O
+多米	NR	O	B-BUS
+音乐	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+多米	NR	O	B-BUS
+音乐	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+通过	P	O	O
+微	JJ	O	O
+信	NN	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+办理	VV	O	O
+多米	NR	O	B-BUS
+音乐	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+变更	VV	O	O
+取消	VV	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+季	NN	O	I-BUS
+包	VV	O	I-BUS
+半年	AD	O	I-BUS
+包	VV	O	I-BUS
+年	JJ	O	O
+包	NN	O	O
+手机	NN	O	O
+上网	VV	O	O
+套餐	NN	O	B-BUS
+有没有	AD	O	I-BUS
+包	VV	O	I-BUS
+季度	NN	O	O
+或者	CC	O	O
+包年	NN	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+季	NN	O	I-BUS
+包	VV	O	I-BUS
+半年	NN	O	I-BUS
+包	VV	O	I-BUS
+年	NN	O	I-BUS
+包	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+季	NN	O	I-BUS
+包	VV	O	I-BUS
+半年	NN	O	I-BUS
+包	VV	O	I-BUS
+年	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+季	NN	O	I-BUS
+包	VV	O	I-BUS
+半年	NN	O	I-BUS
+包	VV	O	I-BUS
+年	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+国际	NN	O	B-BUS
+及	CC	O	I-BUS
+港台	NR	O	I-BUS
+漫游	NN	O	I-BUS
+包天	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+国际	NN	O	O
+及	CC	O	O
+港台	NR	O	B-BUS
+漫游	NN	O	I-BUS
+包天	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+国际	NN	O	O
+及	CC	O	O
+港台	NR	O	B-BUS
+漫游	NN	O	I-BUS
+包天	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	NN	O	I-BUS
+有	VE	O	O
+优惠	NN	O	O
+资费	NN	O	O
+吗	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+国际	NN	O	B-BUS
+及	CC	O	I-BUS
+港台	NR	O	I-BUS
+漫游	NN	O	I-BUS
+包天	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+国际	NN	O	B-BUS
+及	CC	O	I-BUS
+港台	NR	O	I-BUS
+漫游	NN	O	I-BUS
+包天	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱玩	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱玩	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+办理	VV	O	O
+的	DEC	O	O
+爱玩	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+如何	AD	O	O
+变更	VV	O	O
+取消	VV	O	O
+爱玩	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+为什么	AD	O	O
+我	PN	O	O
+办	VV	O	O
+理了	NN	O	O
+4g	NN	O	B-BUS
+套餐	NN	O	I-BUS
+赠送	VV	O	I-BUS
+的	DEC	O	I-BUS
+免费	AD	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+我	PN	O	O
+在	P	O	O
+使	VV	O	O
+用时	VV	O	O
+过程	NN	O	O
+中产	JJ	O	O
+生了	NN	O	O
+另外	JJ	O	O
+的	DEG	O	O
+流量	NN	O	B-BUS
+费	NN	O	I-BUS
+
+怎样	AD	O	O
+办理	VV	O	O
+爱玩	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+如何	AD	O	O
+使用	VV	O	O
+爱玩	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+流量	NN	O	I-BUS
+800	CD	O	I-BUS
+
+天翼	NN	O	B-BUS
+流量	NN	O	I-BUS
+800	CD	O	I-BUS
+的	DEG	O	O
+资费	NN	O	O
+如何	AD	O	O
+收取	VV	O	O
+
+如何	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+流量	NN	O	I-BUS
+800	CD	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱看	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+爱看	NN	O	I-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+出省	NN	O	O
+可以	VV	O	O
+使用	VV	O	O
+吗	SP	O	O
+
+爱看	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+办理	VV	O	O
+的	DEC	O	O
+爱看	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+变更	VV	O	O
+取消	VV	O	O
+爱看	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+办理	VV	O	O
+爱看	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱看	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+如何	AD	O	O
+使用	VV	O	O
+爱看	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱看	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+不限	JJ	O	I-BUS
+流量	NN	O	I-BUS
+吗	SP	O	I-BUS
+
+爱看	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	NN	O	I-BUS
+可以	VV	O	O
+开	VV	O	O
+热点	NN	O	O
+吗	SP	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱听	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱听	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+办理	VV	O	O
+的	DEC	O	O
+爱听	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+变更	VV	O	O
+取消	VV	O	O
+爱听	VV	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱听	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱听	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+如何	AD	O	O
+使用	VV	O	O
+爱听	NN	O	B-BUS
+4g	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+腾讯	NR	O	B-BUS
+手机	NN	O	I-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+通过	P	O	O
+微	JJ	O	O
+信	NN	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+办理	VV	O	O
+腾讯	NR	O	B-BUS
+手机	NN	O	I-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+腾讯	NR	O	B-BUS
+手机	NN	O	I-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+腾讯	NR	O	O
+手机	NN	O	B-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+腾讯	NR	O	O
+手机	NN	O	B-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+腾讯	NR	O	B-BUS
+手机	NN	O	I-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+通过	P	O	O
+易	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+客服	NN	O	O
+办理	VV	O	O
+腾讯	NR	O	B-BUS
+手机	NN	O	I-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+通过	P	O	O
+江苏	NR	O	O
+电信	NN	O	O
+短信	NN	O	O
+营业厅	NN	O	O
+取消	VV	O	O
+腾讯	NR	O	O
+手机	NN	O	B-BUS
+游戏	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+流量	NN	O	B-BUS
+宝	NN	O	I-BUS
+
+流量	NN	O	B-BUS
+宝	NN	O	I-BUS
+的	DEG	O	O
+微	JJ	O	O
+信	NN	O	O
+订阅	VV	O	O
+号	NN	O	O
+是什么	NN	O	O
+
+流量	NN	O	B-BUS
+宝	NN	O	I-BUS
+的	DEC	O	O
+易	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+账号	NN	O	O
+是什么	NN	O	O
+
+流量	NN	O	B-BUS
+宝	NN	O	I-BUS
+的	DEG	O	O
+新浪	NR	O	O
+微	JJ	O	O
+博	NN	O	O
+账号	NN	O	O
+是什么	NN	O	O
+
+流量	NN	O	B-BUS
+宝	NN	O	I-BUS
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+流量	NN	O	B-BUS
+宝	NN	O	I-BUS
+怎么	AD	O	O
+下载	VV	O	O
+流量	NN	O	B-BUS
+宝	NN	O	I-BUS
+
+流量	NN	O	B-BUS
+宝	NN	O	I-BUS
+客户端	NN	O	O
+目前	NT	O	O
+支持	VV	O	O
+什么	PN	O	O
+手机	NN	O	O
+
+流量	NN	O	O
+宝	NN	O	O
+微	AD	O	O
+信	VV	O	O
+的	DEC	O	O
+服务	NN	O	O
+号码	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+使用	VV	O	O
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+的	DEC	O	O
+办理	VV	O	O
+方法	NN	O	O
+
+为什么	AD	O	O
+下载	VV	O	O
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+后	LC	O	I-BUS
+省内	NN	O	I-BUS
+流量	NN	O	I-BUS
+在	P	O	I-BUS
+监控	NN	O	I-BUS
+首页	NN	O	I-BUS
+上	LC	O	I-BUS
+看不到	VV	O	I-BUS
+
+为什么	AD	O	O
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+查询	VV	O	I-BUS
+到	VV	O	I-BUS
+的	DEC	O	I-BUS
+流量	NN	O	I-BUS
+和在	VV	O	I-BUS
+江苏	NR	O	O
+电信	NN	O	O
+网上	NN	O	O
+营业厅	NN	O	O
+www.189.cn	NN	O	O
+js	NN	O	O
+江苏	NR	O	O
+电信	NN	O	O
+掌上	JJ	O	O
+营业厅	NN	O	O
+数据	NN	O	O
+清单	NN	O	O
+查询	NN	O	O
+里面	NN	O	O
+查到	VV	O	O
+的	DEC	O	O
+总流量	NN	O	O
+不一样	VA	O	O
+
+为什么	AD	O	O
+点击	VV	O	O
+获取	VV	O	O
+的	DEC	O	O
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+下载	VV	O	I-BUS
+链接	NN	O	I-BUS
+但是	AD	O	I-BUS
+提示	VV	O	I-BUS
+无法	AD	O	I-BUS
+下载	VV	O	I-BUS
+找不到	VV	O	I-BUS
+下载	VV	O	I-BUS
+文件	NN	O	I-BUS
+
+为什么	AD	O	O
+在	P	O	O
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+刚	AD	O	I-BUS
+加了	VV	O	I-BUS
+流量	NN	O	I-BUS
+也	AD	O	I-BUS
+查询	VV	O	I-BUS
+到	VV	O	I-BUS
+账	NN	O	I-BUS
+了	AS	O	I-BUS
+但是	AD	O	I-BUS
+却	AD	O	I-BUS
+用不上	VV	O	I-BUS
+
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+中	LC	O	O
+为什么	AD	O	O
+其他	DT	O	O
+客户	NN	O	O
+看得到	VV	O	O
+某些	DT	O	O
+活动	NN	O	O
+我	PN	O	O
+看不到	VV	O	O
+
+为什么	AD	O	O
+我	PN	O	O
+在	P	O	O
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+购	VV	O	I-BUS
+买了	NN	O	I-BUS
+闲时	AD	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+没有	VE	O	O
+退订	VV	O	O
+却	AD	O	O
+收到	VV	O	O
+一条	NN	O	O
+通知	NN	O	O
+退订	VV	O	O
+成功	VA	O	O
+的	DEC	O	O
+短信	NN	O	O
+
+流量	NN	O	B-BUS
+加油站	NN	O	I-BUS
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+什么	PN	O	O
+是	VC	O	O
+流量	NN	O	B-BUS
+池	NN	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+流量	NN	O	B-BUS
+池	NN	O	I-BUS
+
+办理	VV	O	O
+流量	NN	O	B-BUS
+池	NN	O	I-BUS
+首月	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+流量	NN	O	B-BUS
+池	NN	O	I-BUS
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+流量	NN	O	B-BUS
+池	NN	O	I-BUS
+
+怎么	AD	O	O
+变更	VV	O	O
+流量	NN	O	B-BUS
+池	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+流量	NN	O	B-BUS
+池	NN	O	I-BUS
+
+办理	VV	O	O
+流量	NN	O	B-BUS
+池	NN	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+变更	VV	O	O
+流量	NN	O	O
+池	NN	O	O
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+流量	NN	O	B-BUS
+池	NN	O	I-BUS
+什么时候	AD	O	I-BUS
+失效	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+流量	NN	O	B-BUS
+啥	DT	O	I-BUS
+都会	NN	O	I-BUS
+
+流量	NN	O	B-BUS
+啥	DT	O	I-BUS
+都会	NN	O	I-BUS
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+流量	NN	O	B-BUS
+啥	DT	O	I-BUS
+都会	NN	O	I-BUS
+
+怎样	AD	O	O
+取消	VV	O	O
+流量	NN	O	B-BUS
+啥	DT	O	I-BUS
+都会	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+短	JJ	O	B-BUS
+信包	NN	O	I-BUS
+
+短	JJ	O	O
+信包	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么办	VV	O	O
+理短	NN	O	O
+信包	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+短	JJ	O	O
+信包	NN	O	O
+
+退订	VV	O	O
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+后	LC	O	O
+是否	AD	O	O
+可	VV	O	O
+重新	AD	O	O
+开通	VV	O	O
+手机	NN	O	O
+钱包	NN	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+中	LC	O	O
+的	DEG	O	O
+钱	NN	O	O
+可直接	AD	O	O
+用来	VV	O	O
+缴纳	VV	O	O
+话费	NN	O	O
+吗	SP	O	O
+
+哪些	DT	O	O
+手机能	NN	O	O
+开通	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+哪些	DT	O	O
+手机	NN	O	O
+可以	VV	O	O
+使用	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+nfcnear	JJ	O	O
+field	NN	O	O
+communication	NR	O	O
+近场	NN	O	O
+无线通信	NN	O	O
+技术	NN	O	O
+由	P	O	O
+非	AD	O	O
+接触	VV	O	O
+式	NN	O	O
+射频	NN	O	O
+识别	NN	O	O
+rfid	NN	O	O
+及	CC	O	O
+互联互通	NN	O	O
+技术	NN	O	O
+整合	NN	O	O
+演变	VV	O	O
+而来	AD	O	O
+在	P	O	O
+单一	JJ	O	O
+芯片	NN	O	O
+上	LC	O	O
+结合	VV	O	O
+感应式	NN	O	O
+读卡器	NN	O	O
+感应式	JJ	O	O
+卡片	NN	O	O
+和	CC	O	O
+点对点	NN	O	O
+的	DEG	O	O
+功能	NN	O	O
+能在	VV	O	O
+短距离	NN	O	O
+内	LC	O	O
+与	P	O	O
+兼容	NN	O	O
+设备	NN	O	O
+进行	VV	O	O
+识别	NN	O	O
+和	CC	O	O
+数据交换	NN	O	O
+主要	AD	O	O
+应用在	VV	O	O
+机场	NN	O	O
+登机	NN	O	O
+验证	VV	O	O
+大厦	NN	O	O
+的	DEC	O	O
+门禁	NN	O	O
+钥匙	NN	O	O
+交通	NN	O	O
+一卡通	NR	O	O
+信用卡	NN	O	O
+支付	VV	O	O
+卡	NN	O	O
+等等	ETC	O	O
+uim	NN	O	O
+卡	NN	O	O
+
+如何	AD	O	O
+查询	VV	O	O
+手机	NN	O	O
+钱包	NN	O	O
+历史	NN	O	O
+交易	NN	O	O
+记录	NN	O	O
+
+如何	AD	O	O
+查询	VV	O	O
+手机	NN	O	O
+钱包	NN	O	O
+账户	NN	O	O
+余额	NN	O	O
+
+更换	VV	O	O
+手机号码	NN	O	O
+如何	AD	O	O
+继续	VV	O	O
+使用	VV	O	O
+手机	NN	O	O
+钱包	NN	O	O
+账户	NN	O	O
+里	LC	O	O
+的	DEG	O	O
+资金	NN	O	O
+
+我	PN	O	O
+手机	NN	O	O
+欠费	NN	O	O
+停机	VV	O	O
+了	AS	O	O
+手机	NN	O	O
+钱包	NN	O	O
+账户	NN	O	O
+还可	AD	O	O
+以	P	O	O
+使用	VV	O	O
+吗	SP	O	O
+
+我	PN	O	O
+能	VV	O	O
+直接	AD	O	O
+把	BA	O	O
+手机	NN	O	O
+钱包	NN	O	O
+中	LC	O	O
+的	DEG	O	O
+钱	NN	O	O
+用来	VV	O	O
+缴纳	VV	O	O
+话费	NN	O	O
+吗	SP	O	O
+
+如何	AD	O	O
+查询	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+历史	NN	O	O
+交易	NN	O	O
+记录	NN	O	O
+及	CC	O	O
+余额	NN	O	O
+
+手机	NN	O	O
+钱包	NN	O	O
+中	LC	O	O
+同一	DT	O	O
+家	M	O	O
+银行	NN	O	O
+的	DEG	O	O
+同一	DT	O	O
+类型	NN	O	O
+卡	NN	O	O
+可以	VV	O	O
+绑定	VV	O	O
+多张	VV	O	O
+吗	SP	O	O
+
+请问	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+手机	NN	O	O
+通讯	NN	O	O
+功能	NN	O	O
+异常	VA	O	O
+时	LC	O	O
+对	P	O	O
+手机	NN	O	O
+钱包	NN	O	O
+使用	VV	O	O
+有影响	NN	O	O
+吗	SP	O	O
+
+更换	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+手机号码	NN	O	O
+如何	AD	O	O
+继续	VV	O	O
+使用	VV	O	O
+手机	NN	O	O
+钱包	NN	O	O
+账户	NN	O	O
+里	LC	O	O
+的	DEG	O	O
+资金	NN	O	O
+
+我	PN	O	O
+在给	VV	O	O
+银行卡	NN	O	O
+空	NN	O	O
+中圈	NR	O	O
+存	VV	O	O
+时	LC	O	O
+未	AD	O	O
+成功	VV	O	O
+什么原因	VV	O	O
+例如	AD	O	O
+我	PN	O	O
+要给	VV	O	O
+光大银行	VV	O	O
+的	DEC	O	O
+现	AD	O	O
+金卡	NR	O	O
+充值	VV	O	O
+后台	NN	O	O
+账户	NN	O	O
+已	AD	O	O
+扣款	VV	O	O
+但我	NN	O	O
+的	DEC	O	O
+电子	NN	O	O
+现金	NN	O	O
+未	AD	O	O
+增加	VV	O	O
+圈	NN	O	O
+存	NN	O	O
+失败	VV	O	O
+什么原因	VV	O	O
+
+客户	NN	O	O
+手机	NN	O	O
+欠费	NN	O	O
+停机	VV	O	O
+了	AS	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+账户	NN	O	O
+还可	AD	O	O
+以	P	O	O
+使用	VV	O	O
+吗	SP	O	O
+
+可以	VV	O	O
+去	VV	O	O
+电信	NN	O	O
+营业厅	NN	O	O
+给	P	O	O
+手机	NN	O	O
+钱包	NN	O	O
+的	DEG	O	O
+电子	NN	O	O
+现金	NN	O	O
+账户	NN	O	O
+充值	VV	O	O
+吗	SP	O	O
+
+如何	AD	O	O
+使用	VV	O	O
+手机	NN	O	O
+钱包	NN	O	O
+中	LC	O	O
+的	DEG	O	O
+银行	NN	O	O
+电子	NN	O	O
+现金	NN	O	O
+卡在	VV	O	O
+银	NN	O	O
+联	VV	O	O
+的	DEC	O	O
+闪	VV	O	O
+付	VV	O	O
+pos	NN	O	O
+上	LC	O	O
+支付	VV	O	O
+
+请问	VV	O	O
+手机	NN	O	O
+话费	NN	O	O
+能否	VV	O	O
+转入	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+账户	NN	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+使	VV	O	O
+用时	VV	O	O
+要	VV	O	O
+距离	P	O	O
+多远	VV	O	O
+刷	VV	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+中	LC	O	O
+同一	DT	O	O
+家	M	O	O
+银行	NN	O	O
+的卡	NN	O	O
+可以	VV	O	O
+绑定	VV	O	O
+多张	VV	O	O
+吗	SP	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+能做	VV	O	O
+什么	DT	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+可以	VV	O	O
+在	P	O	O
+哪些地方	NN	O	O
+使用	VV	O	O
+
+使用	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+产品	NN	O	O
+的	DEG	O	O
+好处	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+手机	NN	O	O
+钱包	NN	O	O
+客户端	NN	O	O
+在	P	O	O
+哪里	PN	O	O
+能	VV	O	O
+下	VV	O	O
+载到	VV	O	O
+
+开通	VV	O	O
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+产品	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+中	LC	O	O
+的	DEG	O	O
+翼支付	NN	O	O
+卡	NN	O	O
+账户	NN	O	O
+为什么	AD	O	O
+无法	AD	O	O
+注册	VV	O	O
+
+销号	NN	O	O
+后	LC	O	O
+我	PN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+里	LC	O	O
+的	DEG	O	O
+现金	NN	O	O
+使用	VV	O	O
+有影响	NN	O	O
+吗	SP	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+中	LC	O	O
+的	DEG	O	O
+银行卡	NN	O	O
+可以	VV	O	O
+绑定	VV	O	O
+别人	NN	O	O
+的	SP	O	O
+吗	SP	O	O
+
+客户	NN	O	O
+的	DEG	O	O
+手机	NN	O	O
+通讯	NN	O	O
+功能	NN	O	O
+异常	VA	O	O
+时	LC	O	O
+对	P	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+使用	VV	O	O
+有影响	NN	O	O
+吗	SP	O	O
+
+手机	NN	O	O
+钱包	NN	O	O
+销户	VV	O	O
+时	LC	O	O
+里面	NN	O	O
+的	DEG	O	O
+余额	NN	O	O
+是	VC	O	O
+怎么	AD	O	O
+处理	VV	O	O
+的	SP	O	O
+
+存在	VV	O	O
+我	PN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+账户	NN	O	O
+里	LC	O	O
+的	DEG	O	O
+钱	NN	O	O
+是否	VV	O	O
+安全	NN	O	O
+能有	VV	O	O
+什么	DT	O	O
+安全	NN	O	O
+保障	NN	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+的	DEG	O	O
+门户	NN	O	O
+网站	NN	O	O
+是什么	NN	O	O
+
+使用	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+手机	NN	O	O
+需要	VV	O	O
+支持	VV	O	O
+什么	PN	O	O
+功能	NN	O	O
+
+哪种	AD	O	O
+手机卡	NN	O	O
+可以	VV	O	O
+使用	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+充值	VV	O	O
+的	DEC	O	O
+途径	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+现在	NT	O	O
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+支持	VV	O	O
+哪些	PN	O	O
+银行卡	NN	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+的	DEG	O	O
+电子	NN	O	O
+现金	NN	O	O
+账户	NN	O	O
+能	VV	O	O
+充	VV	O	O
+多少钱	NR	O	O
+
+可以	VV	O	O
+去	VV	O	O
+电信	NN	O	O
+营业厅	NN	O	O
+给	P	O	O
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+的	DEG	O	O
+电子	NN	O	O
+现金	NN	O	O
+账户	NN	O	O
+充值	VV	O	O
+吗	SP	O	O
+
+如何	AD	O	O
+下载	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+
+如何	AD	O	O
+使用	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+中	LC	O	O
+的	DEG	O	O
+银行	NN	O	O
+电子	NN	O	O
+现金	NN	O	O
+卡在	VV	O	O
+银	NN	O	O
+联	VV	O	O
+的	DEC	O	O
+闪	VV	O	O
+付	VV	O	O
+pos	NN	O	O
+上	LC	O	O
+支付	VV	O	O
+
+如何	AD	O	O
+使用	VV	O	O
+翼支付	NN	O	O
+现金	NN	O	O
+卡在	VV	O	O
+翼支付	NN	O	O
+pos	NN	O	O
+机	NN	O	O
+支付	VV	O	O
+
+如何	AD	O	O
+使用	VV	O	O
+翼支付	NR	O	O
+在线	JJ	O	O
+账户	NN	O	O
+余额	NN	O	O
+在	P	O	O
+翼支付	NN	O	O
+pos	NN	O	O
+机	NN	O	O
+支付	VV	O	O
+
+支付	VV	O	O
+成功	VV	O	O
+后为	VV	O	O
+什么	PN	O	O
+没有	VE	O	O
+收到	VV	O	O
+短信	NN	O	O
+提示	VV	O	O
+支付	VV	O	O
+成功	VA	O	O
+
+消费	NN	O	O
+后	LC	O	O
+由谁	AD	O	O
+开具	VV	O	O
+发票	NN	O	O
+给	VV	O	O
+客户	NN	O	O
+
+请问	VV	O	O
+客户	NN	O	O
+的	DEG	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+刷卡	VV	O	O
+时	LC	O	O
+为什么	AD	O	O
+没有反应	VV	O	O
+
+手机	NN	O	O
+丢失	VV	O	O
+后	LC	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+该	VV	O	O
+怎么办	VV	O	O
+
+手机	NN	O	O
+丢失	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+的	DEG	O	O
+电子	NN	O	O
+现金	NN	O	O
+能	VV	O	O
+锁定	VV	O	O
+吗	SP	O	O
+手机	NN	O	O
+丢失	VV	O	O
+后	LC	O	O
+更	AD	O	O
+换了	VV	O	O
+手机	NN	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+里	LC	O	O
+的	DEG	O	O
+钱	NN	O	O
+能	VV	O	O
+找回	VV	O	O
+吗	SP	O	O
+
+销号	NN	O	O
+后	LC	O	O
+客户	NN	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+的	DEG	O	O
+现金	NN	O	O
+使用	VV	O	O
+有影响	NN	O	O
+吗	SP	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+翼支付	NN	O	B-BUS
+手机	NN	O	I-BUS
+钱包	NN	O	I-BUS
+
+怎么	AD	O	O
+办理	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+翼支付	NN	O	O
+手机	NN	O	O
+钱包	NN	O	O
+产品	NN	O	O
+
+翼支付	NR	O	O
+手机	NN	O	O
+钱包	NN	O	O
+如何	AD	O	O
+退订	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+乐	NN	O	I-BUS
+视	VV	O	I-BUS
+视频	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+乐	NN	O	I-BUS
+视	VV	O	I-BUS
+视频	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+乐	NN	O	I-BUS
+视	VV	O	I-BUS
+视频	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+乐	NN	O	I-BUS
+视	VV	O	I-BUS
+视频	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+视频	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+
+优	NN	O	O
+酷	NN	O	B-BUS
+视频	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+视频	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+视频	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+优	NN	O	B-BUS
+酷	JJ	O	I-BUS
+联名卡	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+
+优	NN	O	O
+酷	NN	O	O
+联名卡	NN	O	B-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+联名卡	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+优	NN	O	B-BUS
+酷	NN	O	I-BUS
+联名卡	NN	O	I-BUS
+特权	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+绿色	JJ	O	B-BUS
+上网	NN	O	I-BUS
+
+绿色	JJ	O	O
+上网	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+办理	VV	O	O
+绿色	JJ	O	O
+上网	NN	O	O
+的	DEG	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+绿色	JJ	O	B-BUS
+上网	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+绿色	JJ	O	B-BUS
+上网	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+高品质	NN	O	I-BUS
+音乐	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+高品质	NN	O	I-BUS
+音乐	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+高品质	NN	O	I-BUS
+音乐	NN	O	I-BUS
+包	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+高品质	NN	O	I-BUS
+音乐	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+高品质	NN	O	I-BUS
+音乐	NN	O	I-BUS
+包	NN	O	I-BUS
+中	LC	O	O
+如何	AD	O	O
+下载	VV	O	O
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+高品质	NN	O	I-BUS
+音乐	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+高品质	NN	O	I-BUS
+音乐	NN	O	I-BUS
+包	NN	O	I-BUS
+中	LC	O	O
+如何	AD	O	O
+下载	VV	O	O
+及	CC	O	O
+安装	VV	O	O
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+怎么	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+号码	NN	O	O
+是否	VV	O	O
+已经	AD	O	O
+开通	VV	O	O
+国际漫游	NN	O	O
+功能	NN	O	O
+
+若	CS	O	O
+客户	NN	O	O
+已在	VV	O	O
+国外	NN	O	O
+是否	AD	O	O
+可以	VV	O	O
+委托	VV	O	O
+他人	PN	O	O
+办理	VV	O	O
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+漫游	VV	O	O
+国际漫游	NN	O	O
+业务	NN	O	O
+如	AD	O	O
+可以	VV	O	O
+请问	VV	O	O
+开通	VV	O	O
+后	LC	O	O
+是否	AD	O	O
+可以	VV	O	O
+正常	AD	O	O
+使用	VV	O	O
+
+为什么	AD	O	O
+查询	VV	O	O
+国际漫游	NN	O	O
+清单	NN	O	O
+发现	VV	O	O
+对	P	O	O
+端	NN	O	O
+号码	NN	O	O
+是	VC	O	O
+空	VA	O	O
+
+国际漫游	NN	O	O
+状态下	NN	O	O
+客户	NN	O	O
+如何	AD	O	O
+取消	VV	O	O
+国际漫游	NN	O	O
+数据	NN	O	O
+上网	NN	O	O
+功能	NN	O	O
+
+我	PN	O	O
+没有	AD	O	O
+开通	VV	O	O
+国际漫游	NN	O	O
+漫游	VV	O	O
+至	VV	O	O
+国外	NN	O	O
+是否	AD	O	O
+可以	VV	O	O
+拨打	VV	O	O
+18918910000	CD	O	O
+
+我	PN	O	O
+是	VC	O	O
+3g	CD	O	B-BUS
+手机	NN	O	I-BUS
+4g	CD	O	I-BUS
+卡	NN	O	I-BUS
+开通	VV	O	O
+国际漫游	NN	O	O
+业务	NN	O	O
+后	LC	O	O
+在国外	AD	O	O
+可以	VV	O	O
+正常	AD	O	O
+使用	VV	O	O
+吗	SP	O	O
+我	PN	O	O
+是	VC	O	O
+4g	JJ	O	O
+手机	NN	O	O
+3g	JJ	O	O
+卡	NN	O	O
+开通	VV	O	O
+国际漫游	NN	O	O
+业务	NN	O	O
+后	LC	O	O
+在国外	AD	O	O
+可以	VV	O	O
+正常	AD	O	O
+使用	VV	O	O
+吗	SP	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+网站	NN	O	I-BUS
+www.189.cn	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+或	CC	O	O
+办理	VV	O	O
+国际漫游	NN	O	O
+业务	NN	O	O
+
+中国电信	NR	O	B-BUS
+国际漫游	NR	O	I-BUS
+网站	NN	O	I-BUS
+网址	NN	O	I-BUS
+是什么	NN	O	I-BUS
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+国际漫游	NN	O	O
+业务	NN	O	O
+
+通过	P	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+及	CC	O	O
+办理	VV	O	O
+国际漫游	NN	O	O
+业务	NN	O	O
+
+在	P	O	O
+国际漫游	NN	O	O
+时	LC	O	O
+如何	AD	O	O
+拨打	VV	O	O
+其他	DT	O	O
+号码	NN	O	O
+电话	NN	O	O
+
+如何	AD	O	O
+查询	VV	O	O
+哪些	DT	O	O
+国家	NN	O	O
+是	VC	O	O
+c	NN	O	O
+网	NN	O	O
+g	NN	O	O
+网	NN	O	O
+
+国际漫游	NN	O	O
+客户	NN	O	O
+服务	VV	O	O
+号码	NN	O	O
+是多少	NN	O	O
+
+开	VV	O	O
+国际漫游	NN	O	O
+需要	VV	O	O
+换卡	NN	O	O
+吗	SP	O	O
+办理	VV	O	O
+国际漫游	NN	O	O
+对	P	O	O
+手机卡	NN	O	O
+有没有	AD	O	O
+什么	PN	O	O
+要求	VV	O	O
+
+如何	AD	O	O
+查询	VV	O	O
+国际漫游	NN	O	O
+资费	NN	O	O
+
+出国	VV	O	O
+如何	AD	O	O
+拨打	VV	O	O
+电话	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+及	CC	O	O
+办理	VV	O	O
+国际漫游	NN	O	O
+业务	NN	O	O
+
+到	P	O	O
+多个	CD	O	O
+国家	NN	O	O
+是否	VV	O	O
+需要	VV	O	O
+开通	VV	O	O
+多个	CD	O	O
+国际漫游	NN	O	O
+功能	NN	O	O
+
+通过	P	O	O
+短信	NN	O	B-BUS
+方式	NN	O	O
+如何	AD	O	O
+取消	VV	O	O
+国际漫游	NN	O	O
+业务	NN	O	O
+
+出国	VV	O	O
+后	LC	O	O
+手机	NN	O	O
+的	DEG	O	O
+c	NN	O	O
+网	NN	O	O
+和	CC	O	O
+g	NN	O	O
+网	NN	O	O
+如何	AD	O	O
+切换	VV	O	O
+
+国际漫游	NN	O	O
+时	LC	O	O
+须	VV	O	O
+注意	VV	O	O
+哪些	PN	O	O
+
+我	PN	O	O
+要	VV	O	O
+出	VV	O	O
+国是	AD	O	O
+办理	VV	O	O
+国际漫游	NN	O	O
+划算	VA	O	O
+还是	CC	O	O
+我	PN	O	O
+在	P	O	O
+漫游	NN	O	O
+地	DEV	O	O
+买张	VV	O	O
+卡	VV	O	O
+划算	VV	O	O
+
+4g	NN	O	O
+客户	NN	O	O
+怎么	AD	O	O
+办理	VV	O	O
+国际	NN	O	B-BUS
+及	CC	O	I-BUS
+港澳台	NR	O	I-BUS
+漫游	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+漫游	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+国际	NN	O	B-BUS
+及	CC	O	I-BUS
+港澳台	NR	O	I-BUS
+漫游	VV	O	I-BUS
+
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+漫游	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+3g	NN	O	O
+客户	NN	O	O
+怎么	AD	O	O
+办理	VV	O	O
+国际	NN	O	B-BUS
+及	CC	O	I-BUS
+港澳台	NR	O	I-BUS
+漫游	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+漫游	VV	O	O
+
+办理	VV	O	O
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+漫游	VV	O	O
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+漫游	NN	O	O
+业务	NN	O	O
+什么时候	AD	O	O
+失效	VV	O	O
+
+我	PN	O	O
+的	DEG	O	O
+手机	NN	O	O
+出国	VV	O	O
+是否	VV	O	O
+可用	JJ	O	O
+办理	VV	O	O
+国际漫游	NN	O	O
+是否	VV	O	O
+需要	VV	O	O
+更换	VV	O	O
+手机	NN	O	O
+
+开通	VV	O	O
+国际漫游	NN	O	O
+是否	AD	O	O
+需要	VV	O	O
+预存	VV	O	O
+话费	NN	O	O
+
+国际漫游	NN	O	O
+状态下	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+资费	NN	O	O
+及	CC	O	O
+拨打	VV	O	O
+方式	NN	O	O
+
+办理	VV	O	O
+国际漫游	NN	O	O
+业务	NN	O	O
+后有	VV	O	O
+哪些	PN	O	O
+注意事项	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+达人	NN	O	I-BUS
+包	VV	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+狂人	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+达人	NN	O	I-BUS
+包	VV	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+狂人	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+达人	NN	O	I-BUS
+包	VV	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+狂人	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+变更	VV	O	O
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+达人	NN	O	I-BUS
+包	VV	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+狂人	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+达人	NN	O	I-BUS
+包	VV	O	I-BUS
+乐	NN	O	I-BUS
+游	VV	O	I-BUS
+狂人	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱听	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱听	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+
+办理	VV	O	O
+爱听	NN	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱听	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱听	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱听	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+跨省	JJ	O	I-BUS
+实时	JJ	O	I-BUS
+补	NN	O	I-BUS
+换卡	NN	O	I-BUS
+
+天翼	NN	O	O
+跨省	VV	O	O
+实时	AD	O	O
+补	VV	O	O
+换卡	NN	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+跨省	JJ	O	I-BUS
+实时	JJ	O	I-BUS
+补	NN	O	I-BUS
+换卡	NN	O	I-BUS
+
+我	PN	O	O
+现	AD	O	O
+在在	AD	O	O
+省外	VV	O	O
+手机	NN	O	O
+丢了	VV	O	O
+能不	AD	O	O
+能在	VV	O	O
+当地	NN	O	O
+补	VV	O	O
+卡	NN	O	O
+
+跨省	JJ	O	O
+实时	JJ	O	O
+补	NN	O	O
+换卡	NN	O	O
+适用于	VV	O	O
+哪些	PN	O	O
+客户	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+国际	NN	O	I-BUS
+卡	NN	O	I-BUS
+uim	NN	O	I-BUS
+卡	NN	O	I-BUS
+
+天翼	NN	O	O
+国际	NN	O	O
+卡	NN	O	O
+uim	NN	O	O
+卡	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+国际	NN	O	I-BUS
+卡	NN	O	I-BUS
+uim	NN	O	I-BUS
+卡	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱玩	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+
+爱玩	VV	O	B-BUS
+4g	NR	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱玩	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱玩	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+高级	JJ	O	O
+vip	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+固	JJ	O	B-BUS
+网	NN	O	I-BUS
+七彩铃音	VV	O	I-BUS
+
+固	JJ	O	O
+网	NN	O	O
+七彩铃音	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+固	JJ	O	O
+网	NN	O	O
+七彩铃音	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+固	JJ	O	B-BUS
+网	NN	O	I-BUS
+七彩铃音	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+翼	NN	O	B-BUS
+通宝	NR	O	I-BUS
+业务	NN	O	I-BUS
+
+翼	NN	O	O
+通宝	NR	O	O
+业务	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+翼	NN	O	O
+通宝	NR	O	O
+业务	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+翼	NN	O	O
+通宝	NR	O	O
+业务	NN	O	O
+
+办理	VV	O	O
+翼	NN	O	O
+通宝	NR	O	O
+业务	NN	O	O
+的	DEG	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+电话	NN	O	B-BUS
+收音机	NN	O	I-BUS
+
+怎么	AD	O	O
+开通	VV	O	O
+电话	NN	O	O
+收音机	NN	O	O
+
+电话	NN	O	O
+收音机	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+电话	NN	O	O
+收音机	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+翼	NN	O	B-BUS
+机	NN	O	I-BUS
+通	VV	O	I-BUS
+
+翼	NN	O	O
+机	NN	O	O
+通	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+翼	NN	O	B-BUS
+机	NN	O	I-BUS
+通	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+翼	NN	O	B-BUS
+机	NN	O	I-BUS
+通	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+协同通信	VV	O	O
+
+办理	VV	O	O
+协同通信	NN	O	O
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+协同通信	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+协同通信	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+协同通信	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+ic	JJ	O	B-BUS
+卡	NN	O	I-BUS
+公用电话	VV	O	I-BUS
+
+ic	JJ	O	O
+卡	NN	O	O
+公用电话	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+ic	JJ	O	B-BUS
+卡	NN	O	I-BUS
+公用电话	VV	O	I-BUS
+
+国际	NN	O	O
+快	NN	O	O
+线	NN	O	O
+可以	VV	O	O
+免费	AD	O	O
+体验	VV	O	O
+吗	SP	O	O
+如何	AD	O	O
+体验	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+国际	NN	O	B-BUS
+快	JJ	O	I-BUS
+线	NN	O	I-BUS
+
+国际	NN	O	O
+快	JJ	O	O
+线	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+国际	NN	O	B-BUS
+快	NN	O	I-BUS
+线	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+国际	NN	O	B-BUS
+快	JJ	O	I-BUS
+线	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+公交	NN	O	I-BUS
+翼	NN	O	I-BUS
+机	NN	O	I-BUS
+通	VV	O	I-BUS
+
+天翼	NN	O	O
+公交	NN	O	O
+翼	NN	O	O
+机	NN	O	O
+通	VV	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+如何	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+公交	NN	O	I-BUS
+翼	NN	O	I-BUS
+机	NN	O	I-BUS
+通	VV	O	I-BUS
+
+天翼	NN	O	O
+公交	NN	O	O
+翼	NN	O	O
+机	NN	O	O
+通	VV	O	O
+的	DEC	O	O
+首月	NN	O	O
+资费	NN	O	O
+如何	AD	O	O
+收取	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+固	JJ	O	B-BUS
+话	NN	O	I-BUS
+无条件	AD	O	I-BUS
+呼叫转移	VV	O	I-BUS
+
+固	AD	O	O
+话	NN	O	O
+无条件	AD	O	O
+呼叫转移	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+固	JJ	O	B-BUS
+话	NN	O	I-BUS
+无条件	AD	O	I-BUS
+呼叫转移	VV	O	I-BUS
+
+固	AD	O	O
+话	NN	O	O
+无条件	AD	O	O
+呼叫转移	VV	O	O
+开通	VV	O	O
+后	LC	O	O
+如	AD	O	O
+何在	VV	O	O
+话	NN	O	O
+机上	NN	O	O
+设置	VV	O	O
+取消	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+固	JJ	O	B-BUS
+话	NN	O	I-BUS
+无条件	AD	O	I-BUS
+呼叫转移	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+同城	NN	O	B-BUS
+宽带	NN	O	I-BUS
+
+办理	VV	O	O
+同城	NN	O	O
+宽带	NN	O	O
+的	DEG	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+同城	NN	O	O
+宽带	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+同城	NN	O	B-BUS
+宽带	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+同城	NN	O	O
+宽带	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+补	VV	O	I-BUS
+换卡	NN	O	I-BUS
+
+天翼	NN	O	O
+补	VV	O	O
+换卡	NN	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+补	VV	O	I-BUS
+换卡	NN	O	I-BUS
+
+接听	VV	O	O
+国际	NN	O	O
+电话	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+开通	VV	O	O
+国际	NN	O	O
+长途	JJ	O	O
+功能	NN	O	O
+会	VV	O	O
+增加	VV	O	O
+月租	NN	O	O
+费用	NN	O	O
+吗	SP	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+长途	JJ	O	O
+
+什么	PN	O	O
+是	VC	O	O
+国际	NN	O	B-BUS
+及	CC	O	I-BUS
+港澳台	NR	O	I-BUS
+长途	JJ	O	I-BUS
+
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+长途	JJ	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+长途	JJ	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+怎么	AD	O	O
+扣	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+国际	NN	O	B-BUS
+及	CC	O	I-BUS
+港澳台	NR	O	I-BUS
+长途	JJ	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+长途	JJ	O	O
+
+取消	VV	O	O
+国际	NN	O	O
+及	CC	O	O
+港澳台	NR	O	O
+长途	JJ	O	O
+什么时候	AD	O	O
+生效	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+七彩铃音	NN	O	O
+
+七彩铃音	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+七彩铃音	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+七彩铃音	NN	O	O
+
+如何	AD	O	O
+查询	VV	O	O
+彩	NN	O	O
+铃	NN	O	O
+
+提	VV	O	O
+现	AD	O	O
+收	VV	O	O
+不	AD	O	O
+收取	VV	O	O
+手续费	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+翼支付	NN	O	O
+
+信用卡	NN	O	O
+可向	VV	O	O
+翼支付	NN	O	O
+充值	VV	O	O
+吗	SP	O	O
+
+翼支付	NN	O	O
+如何	AD	O	O
+修改	VV	O	O
+登录	NN	O	O
+密码	NN	O	O
+
+怎么	AD	O	O
+重置	VV	O	O
+登录	NN	O	O
+密码	NN	O	O
+
+怎么	AD	O	O
+重置	VV	O	O
+支付	VV	O	O
+密码	NN	O	O
+
+翼支付	NR	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+如何	AD	O	O
+通过	P	O	O
+网	NN	O	O
+银	NN	O	O
+为	VC	O	O
+翼支付	NR	O	O
+账户	NN	O	O
+充值	VV	O	O
+
+翼支付	NN	O	O
+有	VE	O	O
+什么	DT	O	O
+优点	NN	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+翼支付	NN	O	O
+
+如何	AD	O	O
+向	P	O	O
+翼支付	NR	O	O
+进行	VV	O	O
+充值	JJ	O	O
+翼支付	NN	O	O
+的	DEG	O	O
+充值	NN	O	O
+方式	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+在	P	O	O
+翼支付	NN	O	O
+的	DEG	O	O
+使用过程中	NN	O	O
+碰到问题	VV	O	O
+如何	AD	O	O
+解决	VV	O	O
+
+如何	AD	O	O
+使用	VV	O	O
+翼支付	NN	O	O
+进行	VV	O	O
+消费	NN	O	O
+
+翼支付	NR	O	O
+线下	NN	O	O
+号码	NN	O	O
+支付	VV	O	O
+是什么	NN	O	O
+
+请问	VV	O	O
+翼支付	NN	O	O
+如何	AD	O	O
+提	VV	O	O
+现	AD	O	O
+
+翼支付	NR	O	O
+提	VV	O	O
+现	NT	O	O
+的	DEG	O	O
+到	P	O	O
+账	NN	O	O
+时间	NN	O	O
+
+客户	NN	O	O
+手机号码	NN	O	O
+办理	VV	O	O
+过户	NN	O	O
+后	LC	O	O
+是否	AD	O	O
+会	VV	O	O
+影响	VV	O	O
+翼支付	NN	O	O
+的	DEG	O	O
+使用	NN	O	O
+
+请问	AD	O	O
+提	VV	O	O
+现	AD	O	O
+可以	VV	O	O
+绑定	VV	O	O
+信用卡	NN	O	O
+吗	SP	O	O
+
+翼支付	NN	O	O
+如何	AD	O	O
+修改	VV	O	O
+支付	VV	O	O
+密码	NN	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱看	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱看	VV	O	B-BUS
+4g	CD	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+
+爱看	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱看	NN	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱看	VV	O	B-BUS
+4g	CD	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+
+客户	NN	O	O
+如果	CS	O	O
+未	AD	O	O
+开通	VV	O	O
+爱看	VV	O	O
+4g	CD	O	B-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+权益	NN	O	O
+但	AD	O	O
+想	VV	O	O
+观看	VV	O	O
+精品	NN	O	O
+大片	NN	O	O
+专区	NN	O	O
+内容	NN	O	O
+怎么办	VV	O	O
+
+客户	NN	O	O
+如果	CS	O	O
+未	AD	O	O
+开通	VV	O	O
+爱看	VV	O	O
+4g	CD	O	B-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+权益	NN	O	O
+的	DEG	O	O
+情况下	NN	O	O
+点击	VV	O	O
+了	AS	O	O
+精品	NN	O	O
+大片	NN	O	O
+专区	NN	O	O
+内容	NN	O	O
+会	VV	O	O
+如何	VA	O	O
+
+订购	VV	O	O
+了	AS	O	O
+爱看	VV	O	O
+4g	CD	O	B-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+的	DEG	O	O
+客户	NN	O	O
+是否	AD	O	O
+可以	VV	O	O
+观看	VV	O	O
+爱看	VV	O	O
+4g	JJ	O	O
+客户	NN	O	O
+端上	VV	O	O
+的	DEC	O	O
+其他	DT	O	O
+内容	NN	O	O
+
+已	AD	O	O
+订购	VV	O	O
+了	AS	O	O
+爱看	NN	O	O
+4g	NN	O	O
+客户端	NN	O	O
+vip	NR	O	O
+会员	NN	O	O
+的	DEG	O	O
+客户	NN	O	O
+是否	AD	O	O
+可以	VV	O	O
+观看	VV	O	O
+爱看	VV	O	O
+4g	CD	O	B-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+的	DEG	O	O
+内容	NN	O	O
+
+如何	AD	O	O
+开通	VV	O	O
+爱看	VV	O	O
+4g	CD	O	B-BUS
+爱看	VV	O	I-BUS
+4g	CD	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+专区	NN	O	O
+权益	NN	O	O
+
+一个	CD	O	O
+开通	VV	O	O
+爱看	VV	O	O
+4g	CD	O	B-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+客户	NN	O	O
+可否	VV	O	O
+在	P	O	O
+爱看	NR	O	O
+4g	NN	O	B-BUS
+直接	AD	O	I-BUS
+订购	VV	O	I-BUS
+爱看	VV	O	I-BUS
+4g	CD	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	I-BUS
+大片	NN	O	I-BUS
+产品	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱看	VV	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+专区	NN	O	O
+内容	NN	O	O
+在	P	O	O
+爱看	NR	O	O
+4g	VV	O	O
+哪里	PN	O	O
+可以	VV	O	O
+看到	VV	O	O
+
+办理	VV	O	O
+爱看	NN	O	B-BUS
+4g	NN	O	I-BUS
+加装	VV	O	I-BUS
+包	VV	O	I-BUS
+精品	NN	O	O
+大片	NN	O	O
+的	DEG	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+为什么	AD	O	O
+在	P	O	O
+使用	VV	O	O
+手机	NN	O	O
+浏览器	NN	O	O
+上网	VV	O	O
+时	LC	O	O
+会	VV	O	O
+通过	P	O	O
+微	JJ	O	O
+视窗	NN	O	O
+看到	VV	O	O
+流量	NN	O	B-BUS
+使用情况	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+微	JJ	O	O
+视窗	NN	O	O
+
+客户	NN	O	O
+称	VV	O	O
+还有	CC	O	O
+超大	JJ	O	O
+流量	NN	O	B-BUS
+的	DEV	O	I-BUS
+定向	VV	O	I-BUS
+包	VV	O	I-BUS
+或者	CC	O	I-BUS
+24小时	NT	O	I-BUS
+包	VV	O	I-BUS
+或者	CC	O	I-BUS
+闲时	AD	O	I-BUS
+流量	NN	O	I-BUS
+包	VV	O	I-BUS
+没	AD	O	O
+用完	VV	O	O
+为什么	AD	O	O
+微	JJ	O	O
+视窗	NN	O	O
+窗口	NN	O	O
+显示	VV	O	O
+剩余	JJ	O	O
+流量	NN	O	B-BUS
+已	AD	O	I-BUS
+不多	VA	O	I-BUS
+
+微	AD	O	O
+视窗	NN	O	O
+窗口	NN	O	B-BUS
+订购	VV	O	I-BUS
+了	AS	O	I-BUS
+流量	NN	O	I-BUS
+包	NN	O	I-BUS
+可以	VV	O	O
+到哪里	NR	O	O
+查询	VV	O	O
+订购	VV	O	O
+记录	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+微	JJ	O	O
+视窗	NN	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+微	JJ	O	O
+视窗	NN	O	O
+
+为什么	AD	O	O
+其他	DT	O	O
+人在	VV	O	O
+手机	NN	O	O
+上网	VV	O	O
+时	LC	O	O
+可以	VV	O	O
+看到	VV	O	O
+微	JJ	O	O
+视窗	NN	O	O
+流量	NN	O	B-BUS
+提醒	VV	O	I-BUS
+的	DEC	O	O
+窗口	NN	O	O
+而	MSP	O	O
+本人	PN	O	O
+看不到	VV	O	O
+呢	SP	O	O
+
+微	AD	O	O
+视窗	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神	NN	O	I-BUS
+界	NN	O	I-BUS
+漫画	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神	NN	O	I-BUS
+界	NN	O	I-BUS
+漫画	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神	NN	O	I-BUS
+界	NN	O	I-BUS
+漫画	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神	NN	O	I-BUS
+界	NN	O	I-BUS
+漫画	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神	NN	O	I-BUS
+界	NN	O	I-BUS
+漫画	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	JJ	O	O
+神	NN	O	O
+界	NN	O	O
+漫画	NN	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神	NN	O	I-BUS
+界	NN	O	I-BUS
+漫画	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神	NN	O	I-BUS
+界	NN	O	I-BUS
+漫画	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神	NN	O	I-BUS
+界	NN	O	I-BUS
+漫画	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+取消	VV	O	O
+当月	NT	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+使用	VV	O	O
+爱	NN	O	B-BUS
+动漫	JJ	O	I-BUS
+神	NN	O	I-BUS
+界	NN	O	I-BUS
+漫画	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+是否	AD	O	O
+需要	VV	O	O
+扣	VV	O	O
+流量	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+爆笑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+爆笑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+号码	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+爆笑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+爆笑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+爆笑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+炫	NN	O	I-BUS
+漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+炫	NN	O	I-BUS
+漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+炫	NN	O	I-BUS
+漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+炫	NN	O	I-BUS
+漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+炫	NN	O	I-BUS
+漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+炫	NN	O	I-BUS
+漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+炫	NN	O	I-BUS
+漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+炫	NN	O	I-BUS
+漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+北京	NR	O	O
+奇	JJ	O	O
+乐	NN	O	O
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+北京	NR	O	O
+奇	JJ	O	O
+乐	NN	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+北京	NR	O	O
+奇	JJ	O	O
+乐	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+北京	NR	O	O
+奇	JJ	O	O
+乐	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+北京	NR	O	O
+奇	JJ	O	O
+乐	NN	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+客	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+客	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+客	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+客	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+客	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	NN	O	O
+漫	VV	O	O
+客	NN	O	B-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+客	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+客	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+客	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VA	O	I-BUS
+逗趣	VA	O	I-BUS
+专题	AD	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VA	O	I-BUS
+逗趣	VA	O	I-BUS
+专题	AD	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费用	NN	O	O
+如何	AD	O	O
+收取	VV	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VA	O	I-BUS
+逗趣	VA	O	I-BUS
+专题	AD	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VA	O	I-BUS
+逗趣	VA	O	I-BUS
+专题	AD	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VA	O	I-BUS
+逗趣	VA	O	I-BUS
+专题	AD	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+热门	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+热门	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+热门	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+热门	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	NN	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+热门	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+欢乐	NN	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+欢乐	NN	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+欢乐	NN	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+欢乐	NN	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+欢乐	NN	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+欢乐	NN	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+订购	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	NN	O	O
+漫	VV	O	O
+花筒	NN	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+退订	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+使用	VV	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+观看	VV	O	O
+图片	NN	O	O
+是否	AD	O	O
+需要	VV	O	O
+扣	VV	O	O
+流量	NN	O	O
+
+是不是	AD	O	O
+只要	CS	O	O
+支持	VV	O	O
+彩信	JJ	O	O
+功能	NN	O	O
+手机	NN	O	O
+就都	AD	O	O
+可以	VV	O	O
+观看	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+在	P	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+花筒	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+平台	NN	O	O
+遇到	VV	O	O
+好看	VA	O	O
+的	DEC	O	O
+动画片	NN	O	O
+看到	VV	O	O
+一半	CD	O	O
+下次	AD	O	O
+如何	AD	O	O
+找到	VV	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+视界	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+视界	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+视界	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+是什么	NN	O	O
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+视界	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+视界	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+视界	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	NN	O	O
+漫	VV	O	O
+视界	NN	O	B-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+如何	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+视界	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+客户	NN	O	O
+是不是	AD	O	O
+只要	AD	O	O
+支持	VV	O	O
+彩信	NN	O	O
+功能	NN	O	O
+手机	NN	O	O
+就都	AD	O	O
+可以	VV	O	O
+观看	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+视界	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+客户	NN	O	O
+登	VV	O	O
+入	VV	O	O
+爱	NN	O	O
+动漫	VV	O	O
+观看	VV	O	O
+作品	NN	O	O
+是否	AD	O	O
+需	VV	O	O
+凭	P	O	O
+账号密码	NN	O	O
+呢	SP	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	B-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+数	NN	O	O
+联	VV	O	O
+领航	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+专题	JJ	O	B-BUS
+包	NN	O	I-BUS
+数	NN	O	O
+联	VV	O	O
+领航	VV	O	O
+
+专题	JJ	O	O
+包	NN	O	O
+数	NN	O	O
+联	VV	O	O
+领航	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+专题	NN	O	B-BUS
+包	NN	O	I-BUS
+数	NN	O	O
+联	VV	O	O
+领航	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+专题	NN	O	B-BUS
+包	NN	O	I-BUS
+数	NN	O	O
+联	VV	O	O
+领航	VV	O	O
+
+专题	JJ	O	O
+包	NN	O	O
+数	NN	O	O
+联	VV	O	O
+领航	VV	O	O
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+文化	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+文化	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+文化	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+文化	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+文化	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+乐吧	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+乐吧	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+乐吧	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+是什么	NN	O	O
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+漫	VV	O	I-BUS
+乐吧	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+乐吧	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+乐吧	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	NN	O	O
+漫	VV	O	O
+乐吧	NN	O	B-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+如何	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+漫	VV	O	I-BUS
+乐吧	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+观看	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+登	VV	O	O
+入	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+观看	NN	O	O
+作品	NN	O	O
+是否	AD	O	O
+需	VV	O	O
+凭	P	O	O
+账号密码	NN	O	O
+呢	SP	O	O
+
+加入	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	NN	O	I-BUS
+服务	NN	O	O
+观看	VV	O	O
+图片	NN	O	O
+是否	AD	O	O
+需要	VV	O	O
+扣	VV	O	O
+流量	NN	O	O
+
+爱	VV	O	O
+动漫	JJ	O	O
+客户端	NN	O	O
+支持	VV	O	O
+离线	NN	O	O
+观看	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+悬疑	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+吗	SP	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+神偷	NN	O	I-BUS
+妙	JJ	O	I-BUS
+探	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+动漫	JJ	O	B-BUS
+神偷	NN	O	I-BUS
+妙	JJ	O	I-BUS
+探	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+神偷	NN	O	I-BUS
+妙	JJ	O	I-BUS
+探	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神偷	NN	O	I-BUS
+妙	JJ	O	I-BUS
+探	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+使用	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+神偷	NN	O	I-BUS
+妙	JJ	O	I-BUS
+探	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+是否	AD	O	O
+需要	VV	O	O
+扣	VV	O	O
+流量	NN	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+神偷	NN	O	I-BUS
+妙	JJ	O	I-BUS
+探	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	NN	O	O
+神偷	NN	O	O
+妙	JJ	O	O
+探	NN	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神偷	NN	O	I-BUS
+妙	JJ	O	I-BUS
+探	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神偷	NN	O	I-BUS
+妙	JJ	O	I-BUS
+探	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+神偷	NN	O	I-BUS
+妙	JJ	O	I-BUS
+探	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+取消	VV	O	O
+当月	NT	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+唯美	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+唯美	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+是什么	NN	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+唯美	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+唯美	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+唯美	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+纷	VV	O	I-BUS
+享	VV	O	I-BUS
+包	VV	O	I-BUS
+实体	NN	O	O
+优惠卡	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+纷	VV	O	I-BUS
+享	VV	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+纷	VV	O	I-BUS
+享	VV	O	I-BUS
+包	VV	O	I-BUS
+如何	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+纷	VV	O	I-BUS
+享	VV	O	I-BUS
+包	VV	O	I-BUS
+如何	AD	O	O
+退订	VV	O	O
+
+订购	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+纷	VV	O	I-BUS
+享	VV	O	I-BUS
+包	VV	O	I-BUS
+后	LC	O	O
+使	VV	O	O
+用时	VV	O	O
+是否	VV	O	B-BUS
+还需要	AD	O	I-BUS
+支付	VV	O	I-BUS
+流量	NN	O	I-BUS
+费	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+纷	VV	O	I-BUS
+享	VV	O	I-BUS
+包	NN	O	I-BUS
+可以	VV	O	O
+免费	AD	O	O
+体验	VV	O	O
+吗	SP	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+订购	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+纷	VV	O	I-BUS
+享	VV	O	I-BUS
+包	VV	O	I-BUS
+
+如何	AD	O	O
+订购	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+纷	VV	O	I-BUS
+享	VV	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+早	AD	O	I-BUS
+教	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+早	AD	O	I-BUS
+教	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+早	AD	O	I-BUS
+教	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+早	AD	O	I-BUS
+教	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+早	AD	O	I-BUS
+教	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	NN	O	O
+早	AD	O	O
+教	VV	O	O
+动漫	JJ	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+早	AD	O	I-BUS
+教	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+早	AD	O	I-BUS
+教	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新	JJ	O	I-BUS
+番	M	O	I-BUS
+速递	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新	JJ	O	I-BUS
+番	M	O	I-BUS
+速递	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新	JJ	O	I-BUS
+番	M	O	I-BUS
+速递	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新	JJ	O	I-BUS
+番	M	O	I-BUS
+速递	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	VV	O	O
+新	JJ	O	O
+番	M	O	O
+速递	NN	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+如何	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新	JJ	O	I-BUS
+番	M	O	I-BUS
+速递	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新	JJ	O	I-BUS
+番	M	O	I-BUS
+速递	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+登	VV	O	O
+入	VV	O	O
+爱	NN	O	O
+动漫	VV	O	O
+观看	VV	O	O
+作品	NN	O	O
+是否	AD	O	O
+需	VV	O	O
+凭	P	O	O
+账号密码	NN	O	O
+呢	SP	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新	JJ	O	I-BUS
+番	M	O	I-BUS
+速递	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+宅急送	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+宅急送	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费用	NN	O	O
+如何	AD	O	O
+收取	VV	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+宅急送	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+如何	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+宅急送	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+宅急送	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+爱	NN	O	O
+动漫	VV	O	O
+客户端	NN	O	O
+支持	VV	O	O
+离线	NN	O	O
+观看	VV	O	O
+吗	SP	O	O
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+宅急送	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+适用于	VV	O	O
+哪些	PN	O	O
+客户	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+如何	AD	O	O
+收费	VV	O	O
+
+如何	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+如何	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+魔法	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+魔法	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+魔法	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+魔法	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+魔法	NN	O	I-BUS
+爱情	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+是什么	NN	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新华网	NR	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+适用于	VV	O	O
+哪些	PN	O	O
+客户	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新华网	NR	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新华网	NR	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+如何	AD	O	O
+收费	VV	O	O
+
+如何	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新华网	NR	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+如何	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新华网	NR	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新华网	NR	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+平台	NN	O	O
+是什么	NN	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+新华网	NR	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+包月	NN	O	O
+内容	NN	O	O
+首月	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+剑侠情缘	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+剑侠情缘	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+剑侠情缘	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+剑侠情缘	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+冲印	NN	O	I-BUS
+短信	NN	O	I-BUS
+业务	NN	O	I-BUS
+套餐	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+冲印	NN	O	I-BUS
+短信	NN	O	I-BUS
+业务	NN	O	I-BUS
+套餐	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+冲印	NN	O	I-BUS
+短信	NN	O	I-BUS
+业务	NN	O	I-BUS
+套餐	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+冲印	NN	O	I-BUS
+短信	NN	O	I-BUS
+业务	NN	O	I-BUS
+套餐	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+号码	NN	O	O
+是什么	NN	O	O
+
+爱	VV	O	B-BUS
+冲印	NN	O	I-BUS
+短信	NN	O	I-BUS
+业务	NN	O	I-BUS
+套餐	NN	O	I-BUS
+包	VV	O	I-BUS
+可以	VV	O	O
+免费	AD	O	O
+体验	VV	O	O
+吗	SP	O	O
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+冲印	NN	O	I-BUS
+短信	NN	O	I-BUS
+业务	NN	O	I-BUS
+套餐	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+冲印	NN	O	I-BUS
+短信	NN	O	I-BUS
+业务	NN	O	I-BUS
+套餐	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+冲印	NN	O	I-BUS
+短信	NN	O	I-BUS
+业务	NN	O	I-BUS
+套餐	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+首映	NN	O	I-BUS
+大	JJ	O	I-BUS
+电影	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+首映	NN	O	I-BUS
+大	JJ	O	I-BUS
+电影	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+首映	NN	O	I-BUS
+大	JJ	O	I-BUS
+电影	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+是否	AD	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+首映	NN	O	I-BUS
+大	JJ	O	I-BUS
+电影	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+取消	VV	O	O
+取消	VV	O	O
+当月	NT	O	O
+产品	NN	O	O
+功能	NN	O	O
+费	NN	O	O
+如何	AD	O	O
+收取	VV	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+号码	NN	O	O
+是什么	NN	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+取消	VV	O	O
+当月	NT	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+使用	VV	O	O
+爱	NN	O	B-BUS
+动漫	JJ	O	I-BUS
+芒果	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+是否	AD	O	O
+需要	VV	O	O
+扣	VV	O	O
+流量	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+果	NN	O	B-BUS
+果	NN	O	I-BUS
+乐园	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+果	NN	O	O
+果	NN	O	O
+乐园	NN	O	B-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+果	NN	O	B-BUS
+果	NN	O	I-BUS
+乐园	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+果	NN	O	B-BUS
+果	NN	O	I-BUS
+乐园	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+itv	NR	O	B-BUS
+酒店	NN	O	I-BUS
+餐饮	NN	O	I-BUS
+包间	NN	O	I-BUS
+
+itv	NR	O	O
+酒店	NN	O	O
+餐饮	NN	O	O
+包间	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+itv	NN	O	B-BUS
+酒店	NN	O	I-BUS
+餐饮	NN	O	I-BUS
+包间	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+itv	NN	O	B-BUS
+酒店	NN	O	I-BUS
+餐饮	NN	O	I-BUS
+包间	NN	O	I-BUS
+
+如何	AD	O	O
+使用	VV	O	O
+itv	NN	O	O
+酒店	NN	O	O
+餐饮	NN	O	O
+包间	NN	O	O
+的	DEG	O	O
+收藏	NN	O	O
+功能	NN	O	O
+
+itv	NR	O	O
+酒店	NN	O	O
+餐饮	NN	O	O
+包间	NN	O	O
+对	P	O	O
+电视机	NN	O	O
+有	VE	O	O
+何	DT	O	O
+特殊要求	NN	O	O
+
+itv	NR	O	O
+酒店	NN	O	O
+餐饮	NN	O	O
+包间	NN	O	O
+采用	VV	O	O
+什么	DT	O	O
+接口	NN	O	O
+连接	VV	O	O
+
+使用	VV	O	O
+itv	NN	O	O
+酒店	NN	O	O
+餐饮	NN	O	O
+包间	NN	O	O
+时	LC	O	O
+出现	VV	O	O
+异常情况	NN	O	O
+该	VV	O	O
+如何	AD	O	O
+处理	VV	O	O
+
+itv	NR	O	O
+酒店	NN	O	O
+餐饮	NN	O	O
+包间	NN	O	O
+的	DEG	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+翼支付	NN	O	B-BUS
+客户端	NN	O	I-BUS
+红包	NN	O	I-BUS
+应用	NN	O	I-BUS
+
+翼支付	NR	O	O
+客户端	NN	O	O
+红包	NN	O	O
+应用	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+翼支付	NN	O	B-BUS
+客户端	NN	O	I-BUS
+红包	NN	O	I-BUS
+应用	NN	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+订购	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+订购	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	VV	O	O
+异域	NN	O	O
+古	JJ	O	O
+侠	NN	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+退订	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+退订	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+包月	NN	O	O
+需要	VV	O	O
+每个月	NN	O	O
+都	AD	O	O
+订阅	VV	O	O
+吗	SP	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	NN	O	I-BUS
+内	LC	O	O
+的	DEG	O	O
+作品	NN	O	O
+是否	AD	O	O
+都是	VV	O	O
+完结	VV	O	O
+的	SP	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+异域	NN	O	I-BUS
+古	JJ	O	I-BUS
+侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+包月	NN	O	O
+对比	NN	O	O
+单独	AD	O	O
+产品	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+优势	NN	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+北京	NR	O	I-BUS
+中	LC	O	I-BUS
+童	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+适用于	VV	O	O
+哪些	PN	O	O
+客户	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+北京	NR	O	I-BUS
+中	LC	O	I-BUS
+童	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+北京	NR	O	I-BUS
+中	LC	O	I-BUS
+童	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+如何	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+北京	NR	O	I-BUS
+中	LC	O	I-BUS
+童	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+是什么	NN	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+北京	NR	O	I-BUS
+中	LC	O	I-BUS
+童	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+包月	NN	O	O
+内容	NN	O	O
+首月	NN	O	O
+费用	NN	O	O
+如何	AD	O	O
+收取	VV	O	O
+
+如何	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+北京	NR	O	I-BUS
+中	LC	O	I-BUS
+童	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+如何	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+北京	NR	O	I-BUS
+中	LC	O	I-BUS
+童	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+国学	NN	O	I-BUS
+精粹	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+国学	NN	O	I-BUS
+精粹	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+国学	NN	O	I-BUS
+精粹	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	NN	O	I-BUS
+服务	NN	O	O
+号码	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+国学	NN	O	I-BUS
+精粹	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+国学	NN	O	I-BUS
+精粹	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+国学	NN	O	I-BUS
+精粹	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+国学	NN	O	I-BUS
+精粹	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+国学	NN	O	I-BUS
+精粹	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+国学	NN	O	I-BUS
+精粹	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+奇趣	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+奇趣	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+奇趣	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+奇趣	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+奇趣	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+奇趣	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+奇趣	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+如何	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+奇趣	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+奇趣	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+中有	VV	O	O
+几部	CD	O	O
+作品	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+宽带	NN	O	B-BUS
+智能	NN	O	I-BUS
+提速	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+宽带	NN	O	B-BUS
+智能	NN	O	I-BUS
+提速	NN	O	I-BUS
+包	VV	O	I-BUS
+
+宽带	NN	O	B-BUS
+智能	NN	O	I-BUS
+提速	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+宽带	NN	O	B-BUS
+智能	NN	O	I-BUS
+提速	NN	O	I-BUS
+包	VV	O	I-BUS
+
+我	PN	O	O
+的	DEG	O	O
+宽带	NN	O	O
+最高	AD	O	O
+可以	VV	O	O
+提速	VV	O	O
+到	VV	O	O
+多少	CD	O	O
+m	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+欢乐	NN	O	I-BUS
+童年	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+欢乐	NN	O	I-BUS
+童年	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+欢乐	NN	O	I-BUS
+童年	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+欢乐	NN	O	I-BUS
+童年	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+动漫	JJ	O	B-BUS
+彩信	NN	O	I-BUS
+5元	NR	O	I-BUS
+包	VV	O	I-BUS
+产品	NN	O	O
+
+订购	VV	O	O
+了	AS	O	O
+动漫	JJ	O	O
+彩信	NN	O	B-BUS
+5元	NR	O	I-BUS
+包	VV	O	I-BUS
+产品	NN	O	O
+当月	NT	O	O
+退订	VV	O	O
+剩余	JJ	O	O
+条数	NN	O	O
+是否	AD	O	O
+能够	VV	O	O
+使用	VV	O	O
+
+动漫	JJ	O	B-BUS
+彩信	NN	O	I-BUS
+5元	NR	O	I-BUS
+包	VV	O	I-BUS
+产品	NN	O	O
+当月	NT	O	O
+能否	VV	O	O
+重复	AD	O	O
+订购	VV	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+动漫	JJ	O	B-BUS
+彩信	NN	O	I-BUS
+5元	NR	O	I-BUS
+包	VV	O	I-BUS
+产品	NN	O	O
+
+动漫	JJ	O	B-BUS
+彩信	NN	O	I-BUS
+5元	NR	O	I-BUS
+包	VV	O	I-BUS
+产品	NN	O	O
+申请	NN	O	O
+当月	NT	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+动漫	JJ	O	B-BUS
+彩信	NN	O	I-BUS
+5元	NR	O	I-BUS
+包	VV	O	I-BUS
+产品	NN	O	O
+如何	AD	O	O
+取消	VV	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+校园	NN	O	I-BUS
+毕业生	NN	O	I-BUS
+漫游	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+校园	NN	O	I-BUS
+毕业生	NN	O	I-BUS
+漫游	NN	O	I-BUS
+包	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+校园	NN	O	I-BUS
+毕业生	NN	O	I-BUS
+漫游	VV	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+办理	VV	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+天翼	NN	O	B-BUS
+校园	NN	O	I-BUS
+毕业生	NN	O	I-BUS
+漫游	VV	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+怎么	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+校园	NN	O	I-BUS
+毕业生	NN	O	I-BUS
+漫游	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+校园	NN	O	I-BUS
+毕业生	NN	O	I-BUS
+漫游	NN	O	I-BUS
+包	VV	O	I-BUS
+
+取消	VV	O	O
+天翼	NN	O	B-BUS
+校园	NN	O	I-BUS
+毕业生	NN	O	I-BUS
+漫游	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+翼	NN	O	B-BUS
+起来	VV	O	I-BUS
+客户端	NN	O	I-BUS
+客户	NN	O	I-BUS
+版	NN	O	I-BUS
+
+翼	NN	O	O
+起来	VV	O	O
+客户端	NN	O	O
+客户	NN	O	O
+版	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+下载	VV	O	O
+翼	NN	O	O
+起来	VV	O	O
+客户端	NN	O	O
+客户	NN	O	O
+版	NN	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+翼	NN	O	O
+起来	VV	O	O
+客户端	NN	O	O
+客户	NN	O	O
+版	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+画	NN	O	I-BUS
+客	NN	O	I-BUS
+原创	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+画	NN	O	I-BUS
+客	NN	O	I-BUS
+原创	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+画	NN	O	I-BUS
+客	NN	O	I-BUS
+原创	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+退订	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+画	NN	O	I-BUS
+客	NN	O	I-BUS
+原创	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+元气	NN	O	I-BUS
+漫	VV	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+元气	NN	O	I-BUS
+漫	VV	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+元气	NN	O	I-BUS
+漫	VV	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+元气	NN	O	I-BUS
+漫	VV	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+订购	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+元气	NN	O	I-BUS
+漫	VV	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	VV	O	O
+元气	NN	O	O
+漫	VV	O	O
+动作	NN	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+元气	NN	O	I-BUS
+漫	VV	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+失效	VV	O	O
+
+怎么	AD	O	O
+退订	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+元气	NN	O	I-BUS
+漫	VV	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+热血	JJ	O	I-BUS
+江湖	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+使用	VV	O	O
+爱	NN	O	B-BUS
+动漫	JJ	O	I-BUS
+热血	JJ	O	I-BUS
+江湖	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+观看	VV	O	O
+是否	VV	O	O
+需要	VV	O	O
+扣	VV	O	O
+流量	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+热血	JJ	O	I-BUS
+江湖	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+热血	JJ	O	I-BUS
+江湖	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+热血	JJ	O	I-BUS
+江湖	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+订购	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+热血	JJ	O	I-BUS
+江湖	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	VV	O	O
+热血	JJ	O	O
+江湖	NN	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+热血	JJ	O	I-BUS
+江湖	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+经典	NN	O	I-BUS
+奇幻	VA	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+经典	NN	O	I-BUS
+奇幻	VA	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+经典	NN	O	I-BUS
+奇幻	VA	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+经典	NN	O	I-BUS
+奇幻	VA	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+经典	JJ	O	I-BUS
+大作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+经典	JJ	O	I-BUS
+大作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+经典	JJ	O	I-BUS
+大作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+经典	JJ	O	I-BUS
+大作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+经典	JJ	O	I-BUS
+大作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+经典	JJ	O	I-BUS
+大作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+百	CD	O	I-BUS
+视	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+使用	VV	O	O
+爱	NN	O	B-BUS
+动漫	VV	O	I-BUS
+百	CD	O	I-BUS
+视	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+是否	AD	O	O
+需要	VV	O	O
+扣	VV	O	O
+流量	NN	O	O
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+百	CD	O	I-BUS
+视	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+百	CD	O	I-BUS
+视	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+百	CD	O	I-BUS
+视	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	VV	O	O
+百	CD	O	O
+视	VV	O	O
+动漫	JJ	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+百	CD	O	I-BUS
+视	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+百	CD	O	I-BUS
+视	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+百	CD	O	I-BUS
+视	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+取消	VV	O	O
+当月	NT	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+百	CD	O	I-BUS
+视	VV	O	I-BUS
+动漫	JJ	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+是什么	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+哈哈	IJ	O	I-BUS
+画报	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+哈哈	IJ	O	I-BUS
+画报	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+哈哈	IJ	O	I-BUS
+画报	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+哈哈	IJ	O	I-BUS
+画报	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+恒	AD	O	I-BUS
+梦	VV	O	I-BUS
+圆	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+恒	AD	O	I-BUS
+梦	VV	O	I-BUS
+圆	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+网站	NN	O	O
+有	VE	O	O
+哪些	DT	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+恒	AD	O	I-BUS
+梦	VV	O	I-BUS
+圆	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+恒	AD	O	I-BUS
+梦	VV	O	I-BUS
+圆	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+恒	AD	O	I-BUS
+梦	VV	O	I-BUS
+圆	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+itv	NN	O	B-BUS
+音乐	NN	O	I-BUS
+秀	NN	O	I-BUS
+卡拉	NN	O	I-BUS
+ok	NN	O	I-BUS
+至尊	NN	O	I-BUS
+包	VV	O	I-BUS
+
+itv	NN	O	O
+音乐	NN	O	O
+秀	NN	O	O
+卡拉	NN	O	O
+ok	NN	O	B-BUS
+至尊	AD	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+itv	NN	O	B-BUS
+音乐	NN	O	I-BUS
+秀	NN	O	I-BUS
+卡拉	NN	O	I-BUS
+ok	NN	O	I-BUS
+至尊	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+itv	NN	O	B-BUS
+音乐	NN	O	I-BUS
+秀	NN	O	I-BUS
+卡拉	NN	O	I-BUS
+ok	NN	O	I-BUS
+至尊	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+娱乐	NN	O	I-BUS
+漫	VV	O	I-BUS
+享	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+娱乐	NN	O	I-BUS
+漫	VV	O	I-BUS
+享	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+娱乐	NN	O	I-BUS
+漫	VV	O	I-BUS
+享	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+娱乐	NN	O	I-BUS
+漫	VV	O	I-BUS
+享	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+娱乐	NN	O	I-BUS
+漫	VV	O	I-BUS
+享	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+娱乐	NN	O	I-BUS
+漫	VV	O	I-BUS
+享	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+娱乐	NN	O	I-BUS
+漫	VV	O	I-BUS
+享	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+取消	VV	O	O
+业务	NN	O	O
+什么时候	AD	O	O
+失效	VV	O	O
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+娱乐	NN	O	I-BUS
+漫	VV	O	I-BUS
+享	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+动漫	NN	O	B-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+天翼	NN	O	I-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+动漫	NN	O	I-BUS
+包	VV	O	I-BUS
+
+动漫	NN	O	O
+爱	VV	O	O
+秀	NN	O	O
+天翼	NN	O	B-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+动漫	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+动漫	NN	O	B-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+天翼	NN	O	I-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+动漫	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+动漫	NN	O	B-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+天翼	NN	O	I-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+动漫	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+下载	VV	O	O
+动漫	NN	O	B-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+天翼	NN	O	I-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+动漫	NN	O	I-BUS
+包	VV	O	I-BUS
+客户端	NN	O	O
+
+动漫	NN	O	O
+爱	VV	O	O
+秀	NN	O	O
+天翼	NN	O	B-BUS
+爱	VV	O	I-BUS
+秀	NN	O	I-BUS
+动漫	NN	O	I-BUS
+包	NN	O	I-BUS
+可以	VV	O	O
+免费	AD	O	O
+体验	VV	O	O
+吗	SP	O	O
+如何	AD	O	O
+体验	VV	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+智	NN	O	I-BUS
+趣	NN	O	I-BUS
+乐园	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+智	NN	O	I-BUS
+趣	NN	O	I-BUS
+乐园	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+智	NN	O	I-BUS
+趣	NN	O	I-BUS
+乐园	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+智	NN	O	I-BUS
+趣	NN	O	I-BUS
+乐园	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+智	NN	O	I-BUS
+趣	NN	O	I-BUS
+乐园	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎样	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+智	NN	O	I-BUS
+趣	NN	O	I-BUS
+乐园	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+智	NN	O	I-BUS
+趣	NN	O	I-BUS
+乐园	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+智	NN	O	I-BUS
+趣	NN	O	I-BUS
+乐园	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	NN	O	I-BUS
+智	NN	O	I-BUS
+趣	NN	O	I-BUS
+乐园	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	NN	O	I-BUS
+服务	NN	O	O
+号码	NN	O	O
+是什么	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+西子	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+西子	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+适用于	VV	O	O
+哪些	PN	O	O
+客户	NN	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+西子	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+西子	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+西子	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+怎么	AD	O	O
+退订	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+西子	NR	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	DT	O	O
+类型	NN	O	O
+的	DEG	O	O
+手机	NN	O	O
+可以	VV	O	O
+使用	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+炫	NN	O	O
+影	NN	O	O
+视频	NN	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+炫	NN	O	O
+影	NN	O	O
+视频	NN	O	O
+是什么	NR	O	O
+业务	NN	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+炫	NN	O	O
+影	NN	O	O
+视频	NN	O	O
+申请	VV	O	O
+当月	NT	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+炫	NN	O	O
+影	NN	O	O
+视频	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+如何	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+炫	NN	O	O
+影	NN	O	O
+视频	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+韩	NR	O	I-BUS
+漫	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	NR	O	I-BUS
+韩	NR	O	I-BUS
+漫	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+韩	NR	O	I-BUS
+漫	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+韩	NR	O	I-BUS
+漫	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+青春	NN	O	I-BUS
+武侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+青春	NN	O	I-BUS
+武侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+青春	NN	O	I-BUS
+武侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+青春	NN	O	I-BUS
+武侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+青春	NN	O	I-BUS
+武侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	VV	O	O
+青春	NN	O	O
+武侠	NN	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+青春	NN	O	I-BUS
+武侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+青春	NN	O	I-BUS
+武侠	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	NN	O	B-BUS
+动漫	NN	O	I-BUS
+动作	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+雪域	NN	O	I-BUS
+趣	NN	O	I-BUS
+漫	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+雪域	NN	O	I-BUS
+趣	NN	O	I-BUS
+漫	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+雪域	NN	O	I-BUS
+趣	NN	O	I-BUS
+漫	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+雪域	NN	O	I-BUS
+趣	NN	O	I-BUS
+漫	VV	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+魔法	NN	O	I-BUS
+妈妈	NN	O	I-BUS
+讲故事	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+魔法	NN	O	I-BUS
+妈妈	NN	O	I-BUS
+讲故事	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+魔法	NN	O	I-BUS
+妈妈	NN	O	I-BUS
+讲故事	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+魔法	NN	O	I-BUS
+妈妈	NN	O	I-BUS
+讲故事	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+视讯	NN	O	I-BUS
+凤凰	NN	O	I-BUS
+vip	NR	O	I-BUS
+跨	VV	O	I-BUS
+屏	NN	O	I-BUS
+产品	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+视讯	NN	O	I-BUS
+凤凰	NN	O	I-BUS
+vip	NR	O	I-BUS
+跨	VV	O	I-BUS
+屏	NN	O	I-BUS
+产品	NN	O	I-BUS
+包	NN	O	I-BUS
+
+天翼	NN	O	B-BUS
+视讯	NN	O	I-BUS
+凤凰	NN	O	I-BUS
+vip	NR	O	I-BUS
+跨	VV	O	I-BUS
+屏	NN	O	I-BUS
+产品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+办理	VV	O	O
+天翼	NN	O	B-BUS
+视讯	NN	O	I-BUS
+凤凰	NN	O	I-BUS
+vip	NR	O	I-BUS
+跨	VV	O	I-BUS
+屏	NN	O	I-BUS
+产品	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+办理	VV	O	O
+天翼	NN	O	B-BUS
+视讯	NN	O	I-BUS
+凤凰	NN	O	I-BUS
+vip	NR	O	I-BUS
+跨	VV	O	I-BUS
+屏	NN	O	I-BUS
+产品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+视讯	NN	O	I-BUS
+凤凰	NN	O	I-BUS
+vip	NR	O	I-BUS
+跨	VV	O	I-BUS
+屏	NN	O	I-BUS
+产品	NN	O	I-BUS
+包	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+腾讯	NR	O	I-BUS
+包月	JJ	O	I-BUS
+产品	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+腾讯	NR	O	I-BUS
+包月	JJ	O	I-BUS
+产品	NN	O	I-BUS
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	NN	O	B-BUS
+游戏	NN	O	I-BUS
+腾讯	NR	O	I-BUS
+包月	JJ	O	I-BUS
+产品	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+游戏	NN	O	I-BUS
+腾讯	NR	O	I-BUS
+包月	JJ	O	I-BUS
+产品	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+潮流	NN	O	B-BUS
+快递	NN	O	I-BUS
+铃	NN	O	I-BUS
+音	NN	O	I-BUS
+盒	NN	O	I-BUS
+特	AD	O	I-BUS
+惠	VV	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+潮流	NN	O	O
+快递	NN	O	O
+铃	NN	O	O
+音	NN	O	O
+盒	NN	O	O
+特	AD	O	B-BUS
+惠	VV	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+潮流	NN	O	O
+快递	NN	O	O
+铃	NN	O	O
+音	NN	O	O
+盒	NN	O	O
+特	AD	O	B-BUS
+惠	VV	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+潮流	NN	O	B-BUS
+快递	NN	O	I-BUS
+铃	NN	O	I-BUS
+音	NN	O	I-BUS
+盒	NN	O	I-BUS
+特	AD	O	I-BUS
+惠	VV	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+潮流	NN	O	B-BUS
+快递	NN	O	I-BUS
+铃	NN	O	I-BUS
+音	NN	O	I-BUS
+盒	NN	O	I-BUS
+特	AD	O	I-BUS
+惠	VV	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+办理	VV	O	O
+变更	NN	O	B-BUS
+潮流	NN	O	I-BUS
+快递	NN	O	I-BUS
+铃	NN	O	I-BUS
+音	NN	O	I-BUS
+盒	NN	O	I-BUS
+特	AD	O	I-BUS
+惠	VV	O	I-BUS
+包	VV	O	I-BUS
+
+a	NN	O	O
+计划	NN	O	O
+12元	NT	O	B-BUS
+特色	NN	O	I-BUS
+包	VV	O	I-BUS
+是什么	NN	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+a	NN	O	B-BUS
+计划	NN	O	I-BUS
+12元	NT	O	I-BUS
+特色	NN	O	I-BUS
+包	VV	O	I-BUS
+
+a	NN	O	O
+计划	NN	O	O
+12元	NT	O	B-BUS
+特色	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+服务	NN	O	O
+号码	NN	O	O
+是什么	NN	O	O
+
+a	NN	O	O
+计划	NN	O	O
+12元	NT	O	B-BUS
+特色	NN	O	I-BUS
+包	VV	O	I-BUS
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+a	NN	O	O
+计划	NN	O	O
+12元	NT	O	B-BUS
+特色	NN	O	I-BUS
+包	NN	O	I-BUS
+可以	VV	O	O
+免费	AD	O	O
+体验	VV	O	O
+吗	SP	O	O
+如何	AD	O	O
+体验	VV	O	O
+
+怎么	AD	O	O
+开通	VV	O	O
+a	NN	O	B-BUS
+计划	NN	O	I-BUS
+12元	NT	O	I-BUS
+特色	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+a	NN	O	B-BUS
+计划	NN	O	I-BUS
+12元	NT	O	I-BUS
+特色	NN	O	I-BUS
+包	VV	O	I-BUS
+
+取消	VV	O	O
+a	NN	O	O
+计划	NN	O	O
+12元	NT	O	B-BUS
+特色	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+办理	VV	O	O
+a	NN	O	B-BUS
+计划	NN	O	I-BUS
+12元	NT	O	I-BUS
+特色	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+办理	VV	O	O
+a	NN	O	B-BUS
+计划	NN	O	I-BUS
+12元	NT	O	I-BUS
+特色	NN	O	I-BUS
+包	VV	O	I-BUS
+申请	VV	O	O
+当月	NT	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+江苏	NR	O	I-BUS
+电信	NN	O	I-BUS
+掌上	NN	O	I-BUS
+营业厅	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+天翼	NN	O	O
+生活	NN	O	O
+江苏	NR	O	O
+电信	NN	O	O
+掌上	NN	O	O
+营业厅	NN	O	O
+客户端	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+下载	VV	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+江苏	NR	O	I-BUS
+电信	NN	O	I-BUS
+掌上	NN	O	I-BUS
+营业厅	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+怎么	AD	O	O
+登录	VV	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+江苏	NR	O	I-BUS
+电信	NN	O	I-BUS
+掌上	NN	O	I-BUS
+营业厅	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+江苏	NR	O	I-BUS
+电信	NN	O	I-BUS
+掌上	NN	O	I-BUS
+营业厅	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+天翼	NN	O	O
+生活	NN	O	O
+江苏	NR	O	O
+电信	NN	O	O
+掌上	NN	O	O
+营业厅	NN	O	O
+客户端	NN	O	O
+中	LC	O	O
+的	DEG	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+定向	VV	O	I-BUS
+流量	NN	O	I-BUS
+如何	AD	O	I-BUS
+使用	VV	O	I-BUS
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+流量	NN	O	B-BUS
+使用情况	NN	O	I-BUS
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+欠费	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+消费	NN	O	O
+清单	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+套餐	NN	O	O
+使用情况	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+余额	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+近期	NT	O	O
+的	DEG	O	O
+账单	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+修	VV	O	O
+障	NN	O	O
+进度	NN	O	O
+
+江苏	NR	O	O
+电信	NN	O	O
+掌上	NN	O	O
+营业厅	NN	O	O
+网址	NN	O	O
+是什么	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+附近	NN	O	O
+的	DEG	O	O
+营业网点	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+如何	AD	O	I-BUS
+订购	VV	O	I-BUS
+流量	NN	O	I-BUS
+提醒	VV	O	I-BUS
+服务	NN	O	I-BUS
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+充值	NN	O	O
+缴费	VV	O	O
+记录	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+已	AD	O	O
+订购	VV	O	O
+的	DEC	O	O
+业务	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+都市	NN	O	I-BUS
+漫话	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+都市	NN	O	I-BUS
+漫话	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+都市	NN	O	I-BUS
+漫话	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+都市	NN	O	I-BUS
+漫话	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+都市	NN	O	I-BUS
+漫话	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+使用	VV	O	O
+爱	NN	O	B-BUS
+动漫	JJ	O	I-BUS
+都市	NN	O	I-BUS
+漫话	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+快乐	JJ	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+快乐	JJ	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+快乐	JJ	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+快乐	JJ	O	I-BUS
+家庭	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+动漫	JJ	O	I-BUS
+名家	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+动漫	JJ	O	I-BUS
+名家	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+动漫	JJ	O	I-BUS
+名家	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+动漫	JJ	O	I-BUS
+名家	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+动漫	JJ	O	I-BUS
+名家	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+的	DEC	O	O
+爱	NN	O	O
+动漫	VV	O	O
+台湾	NR	O	O
+动漫	JJ	O	O
+名家	NN	O	B-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+动漫	JJ	O	I-BUS
+名家	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+台湾	NR	O	I-BUS
+动漫	JJ	O	I-BUS
+名家	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+美丽	JJ	O	I-BUS
+传说	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+美丽	JJ	O	I-BUS
+传说	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+如何	AD	O	O
+收费	VV	O	O
+
+如何	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+美丽	JJ	O	I-BUS
+传说	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+如何	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+美丽	JJ	O	I-BUS
+传说	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	NN	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	VV	O	I-BUS
+美丽	JJ	O	I-BUS
+传说	NN	O	I-BUS
+专题	NN	O	I-BUS
+包	VV	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+小铺	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+小铺	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+首月	NN	O	O
+如何	AD	O	O
+收费	VV	O	O
+
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+小铺	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+小铺	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+怎样	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+小铺	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+取消	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+小铺	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+办理	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+小铺	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+什么时候	AD	O	O
+生效	VV	O	O
+
+怎么	AD	O	O
+使用	VV	O	O
+爱	VV	O	B-BUS
+动漫	JJ	O	I-BUS
+动漫	JJ	O	I-BUS
+小铺	NN	O	I-BUS
+精品	NN	O	I-BUS
+包	VV	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+腾讯	NR	O	I-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+
+领	VV	O	O
+取了	NN	O	O
+天翼	NN	O	O
+腾讯	NR	O	B-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+的	DEG	O	O
+腾讯	NR	O	O
+好莱坞	NR	O	O
+会员	NN	O	O
+特权	NN	O	O
+有	VE	O	O
+什么	DT	O	O
+作用	NN	O	O
+
+天翼	NN	O	B-BUS
+腾讯	NR	O	I-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+天翼	NN	O	B-BUS
+腾讯	NR	O	I-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+有	VE	O	I-BUS
+免费	JJ	O	I-BUS
+流量	NN	O	I-BUS
+赠送	VV	O	I-BUS
+吗	SP	O	I-BUS
+
+怎么	AD	O	O
+办理	VV	O	O
+天翼	NN	O	B-BUS
+腾讯	NR	O	I-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+
+领取	VV	O	O
+天翼	NN	O	O
+腾讯	NR	O	B-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+特权	NN	O	I-BUS
+后	LC	O	I-BUS
+什么时候	AD	O	I-BUS
+可以	VV	O	I-BUS
+使用	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+腾讯	NR	O	I-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+流量	NN	O	I-BUS
+特权	NN	O	I-BUS
+领取	VV	O	I-BUS
+方法	NN	O	I-BUS
+是什么	VV	O	I-BUS
+
+天翼	NN	O	B-BUS
+腾讯	NR	O	I-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+腾讯	NR	O	I-BUS
+好莱坞	NR	O	I-BUS
+会员	NN	O	I-BUS
+特权	NN	O	I-BUS
+领取	VV	O	I-BUS
+方法	NN	O	I-BUS
+是什么	VV	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+腾讯	NR	O	I-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+
+怎样	AD	O	O
+判断	VV	O	O
+客户	NN	O	O
+是否	VV	O	O
+天翼	NN	O	O
+腾讯	NR	O	B-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+至少	AD	O	I-BUS
+需要	VV	O	I-BUS
+具备	VV	O	I-BUS
+什么	PN	O	I-BUS
+条件	NN	O	I-BUS
+
+如何	AD	O	O
+获取	VV	O	O
+天翼	NN	O	O
+腾讯	NR	O	B-BUS
+视频	NN	O	I-BUS
+手机	NN	O	I-BUS
+的	DEG	O	O
+imei	OD	O	O
+号	NN	O	O
+和	CC	O	O
+meid	NN	O	O
+号	NN	O	O
+
+误	AD	O	O
+删了	VV	O	O
+天翼	NN	O	O
+腾讯	NR	O	B-BUS
+视频	NN	O	I-BUS
+预装	VV	O	I-BUS
+包	VV	O	I-BUS
+怎么办	VV	O	O
+
+为什么	AD	O	O
+提示	VV	O	O
+非	JJ	O	O
+定制	NN	O	O
+机	NN	O	O
+非	AD	O	O
+指定	VV	O	O
+机型	NN	O	O
+
+已	AD	O	O
+成功	AD	O	O
+订购	VV	O	O
+过	AS	O	O
+特权	NN	O	O
+恢复	VV	O	O
+出厂	NN	O	O
+或	CC	O	O
+删除	VV	O	O
+重装	VV	O	O
+安装包	NN	O	O
+是否	VV	O	O
+影响	NN	O	O
+
+怎样	AD	O	O
+查询	VV	O	O
+成功	AD	O	O
+开通	VV	O	O
+腾讯	NR	O	O
+好莱坞	NR	O	O
+会员	NN	O	O
+特权	NN	O	O
+
+如	AD	O	O
+客户	NN	O	O
+通	VV	O	O
+过从	JJ	O	O
+服务厅	NN	O	O
+网	NN	O	O
+厅	NN	O	O
+等	ETC	O	O
+官方	NN	O	O
+渠道	NN	O	O
+购买	VV	O	O
+的	DEC	O	O
+腾讯	NR	O	O
+视频	NN	O	O
+手机	NN	O	O
+特权	NN	O	O
+领取	VV	O	O
+不成功	NN	O	O
+怎么	AD	O	O
+处理	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+星空	NN	O	B-BUS
+杀毒	NN	O	I-BUS
+
+星空	NN	O	O
+杀毒	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+星空	NN	O	B-BUS
+杀毒	NN	O	I-BUS
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+4g	NN	O	O
+第四代	NN	O	O
+移动	VV	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+主	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+业务	NN	O	O
+乐享	NN	O	O
+飞young	VV	O	O
+4	CD	O	O
+g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+套餐	NN	O	O
+专	AD	O	O
+享	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+4g	JJ	O	B-BUS
+第四代	OD	O	I-BUS
+移动	NN	O	I-BUS
+通信	NN	O	I-BUS
+技术	NN	O	I-BUS
+4g	NN	O	I-BUS
+比	P	O	I-BUS
+3g	NN	O	I-BUS
+第三代移动通信	NN	O	I-BUS
+技术	NN	O	I-BUS
+是	VC	O	I-BUS
+指	VV	O	I-BUS
+支持	VV	O	I-BUS
+高速	JJ	O	I-BUS
+数据传输	NN	O	I-BUS
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+主	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+业务	NN	O	O
+乐享	NN	O	O
+飞young	VV	O	O
+4	CD	O	O
+g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+套餐	NN	O	O
+专	AD	O	O
+享	VV	O	O
+
+办理	VV	O	O
+4g	NN	O	O
+第四代	NN	O	O
+移动	VV	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+主	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+业务	NN	O	O
+乐享	NN	O	O
+飞young	VV	O	O
+4	CD	O	O
+g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+套餐	NN	O	O
+专	AD	O	O
+享	VV	O	O
+副	JJ	O	O
+卡	NN	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+4g	NN	O	B-BUS
+第四代	NN	O	I-BUS
+移动	VV	O	I-BUS
+通信	NN	O	I-BUS
+技术	NN	O	I-BUS
+4g	NN	O	I-BUS
+比	P	O	I-BUS
+3g	NN	O	I-BUS
+第三代移动通信	NN	O	I-BUS
+技术	NN	O	I-BUS
+是	VC	O	I-BUS
+指	VV	O	I-BUS
+支持	VV	O	I-BUS
+高速	JJ	O	I-BUS
+数据传输	NN	O	I-BUS
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+主	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+业务	NN	O	O
+乐享	NN	O	O
+飞young	VV	O	O
+4	CD	O	O
+g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+套餐	NN	O	O
+专	AD	O	O
+享	VV	O	O
+
+办理	VV	O	O
+4g	NN	O	O
+第四代	NN	O	O
+移动	VV	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+主	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+业务	NN	O	O
+乐享	NN	O	O
+飞young	VV	O	O
+4	CD	O	O
+g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+套餐	NN	O	O
+专	AD	O	O
+享	VV	O	O
+什么时候	AD	O	O
+生效	VV	O	O
+
+变更	VV	O	O
+4g	NR	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+主	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+业务	NN	O	O
+乐享	NN	O	O
+飞young	VV	O	O
+4	CD	O	O
+g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+套餐	NN	O	O
+专	AD	O	O
+享	VV	O	O
+什么时候	AD	O	O
+生效	VV	O	O
+
+取消	VV	O	O
+4g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+主	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+业务	NN	O	O
+乐享	NN	O	O
+飞young	VV	O	O
+4	CD	O	O
+g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+套餐	NN	O	O
+专	AD	O	O
+享	VV	O	O
+什么时候	AD	O	O
+失效	VV	O	O
+
+4g	NR	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+主	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+互	AD	O	O
+拨	VV	O	O
+收费	NN	O	O
+吗	SP	O	O
+
+乐享	NR	O	O
+飞young	NR	O	O
+4	CD	O	O
+g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+套餐	NN	O	O
+专	AD	O	O
+享	VV	O	O
+可以	VV	O	O
+加装	VV	O	O
+几张	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+
+副	JJ	O	O
+卡	NN	O	O
+是否	VV	O	O
+自带	VV	O	O
+彩	NN	O	O
+铃	NN	O	O
+功能	NN	O	O
+
+副	JJ	O	O
+卡	NN	O	O
+可以	VV	O	O
+单独	AD	O	O
+办理	VV	O	O
+套餐	NN	O	O
+吗	SP	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+4g	NN	O	B-BUS
+第四代	OD	O	I-BUS
+移动	NN	O	I-BUS
+通信	NN	O	I-BUS
+技术	NN	O	I-BUS
+4g	NN	O	I-BUS
+比	P	O	I-BUS
+3g	NN	O	I-BUS
+第三代移动通信	NN	O	I-BUS
+技术	NN	O	I-BUS
+是	VC	O	I-BUS
+指	VV	O	I-BUS
+支持	VV	O	I-BUS
+高速	JJ	O	I-BUS
+数据传输	NN	O	I-BUS
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+主	JJ	O	O
+副	JJ	O	O
+卡	NN	O	O
+业务	NN	O	O
+乐享	NN	O	O
+飞young	VV	O	O
+4	CD	O	O
+g	NN	O	O
+第四代	OD	O	O
+移动	NN	O	O
+通信	NN	O	O
+技术	NN	O	O
+4g	NN	O	O
+比	P	O	O
+3g	NN	O	O
+第三代移动通信	NN	O	O
+技术	NN	O	O
+是	VC	O	O
+指	VV	O	O
+支持	VV	O	O
+高速	JJ	O	O
+数据传输	NN	O	O
+的	DEG	O	O
+蜂窝	NN	O	O
+移动	VV	O	O
+通讯	NN	O	O
+技术	NN	O	O
+3g	NN	O	O
+服务	NN	O	O
+能够	VV	O	O
+同时	AD	O	O
+传送	VV	O	O
+声音	NN	O	O
+及	CC	O	O
+数据	NN	O	O
+信息	NN	O	O
+速率	NN	O	O
+一般	AD	O	O
+在	P	O	O
+几百	CD	O	O
+kbps	M	O	O
+以上	LC	O	O
+拥有	VV	O	O
+更快	AD	O	O
+的	DEC	O	O
+速率	NN	O	O
+更短	VV	O	O
+的	DEC	O	O
+时	LC	O	O
+延	VV	O	O
+更高	JJ	O	O
+的	DEG	O	O
+安全	NN	O	O
+性能	NN	O	O
+能够	VV	O	O
+满足	VV	O	O
+用户	NN	O	O
+对于	P	O	O
+无线	JJ	O	O
+服务	NN	O	O
+的	DEG	O	O
+更多	JJ	O	O
+要求	NN	O	O
+套餐	NN	O	O
+专	AD	O	O
+享	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+游戏	NN	O	B-BUS
+来了	NN	O	I-BUS
+
+办理	VV	O	O
+游戏	NN	O	O
+来了	NN	O	O
+的	DEG	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+游戏	NN	O	O
+来了	VV	O	O
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+游戏	NN	O	O
+来了	NN	O	O
+可以	VV	O	O
+免费	AD	O	O
+体验	VV	O	O
+吗	SP	O	O
+如何	AD	O	O
+体验	VV	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+游戏	NN	O	B-BUS
+来了	NN	O	I-BUS
+
+怎么	AD	O	O
+下载	VV	O	O
+游戏	NN	O	B-BUS
+来了	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+游戏	NN	O	O
+来了	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+客户端	NN	O	I-BUS
+
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+客户端	NN	O	I-BUS
+费	NN	O	O
+用是	VV	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+使用	VV	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+客户端	NN	O	I-BUS
+有	VE	O	O
+什么	DT	O	O
+优惠	NN	O	O
+吗	SP	O	O
+
+怎么	AD	O	O
+下载	VV	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+客户端	NN	O	I-BUS
+
+办理	VV	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+客户端	NN	O	I-BUS
+的	DEC	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+
+天翼	NN	O	O
+手机	NN	O	O
+上网	VV	O	O
+面向	VV	O	O
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+办理	VV	O	O
+
+如何	AD	O	O
+开通	VV	O	O
+天翼	NN	O	O
+手机	NN	O	O
+上网	VV	O	O
+功能	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+数据	NN	O	O
+功能	NN	O	O
+
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+的	DEC	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+如何	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+手机	NN	O	I-BUS
+上网	VV	O	I-BUS
+功能	NN	O	I-BUS
+
+天翼	NN	O	O
+手机	NN	O	O
+上网	VV	O	O
+取消	VV	O	O
+什么时候	AD	O	O
+失效	VV	O	O
+
+办理	VV	O	O
+的	DEC	O	O
+天翼	NN	O	O
+手机	NN	O	O
+上网	VV	O	O
+什么时候	AD	O	O
+生效	VV	O	O
+
+哪些	DT	O	O
+客户	NN	O	O
+可以	VV	O	O
+使用	VV	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+关注	VV	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+
+是不是	NR	O	O
+所有	DT	O	O
+手机	NN	O	O
+都能	AD	O	O
+使用	VV	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+是否	AD	O	O
+需要	VV	O	O
+身份验证	VV	O	O
+才能	NN	O	O
+使用	VV	O	O
+
+使用	VV	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+无法	AD	O	O
+查询	VV	O	O
+账单	NN	O	O
+是什么	NN	O	O
+原因	NN	O	O
+
+为什么	AD	O	O
+有的	DT	O	O
+业务	NN	O	O
+在	P	O	O
+微	JJ	O	O
+信	NN	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+找不到	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+关注	VV	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+关联	NN	O	O
+号码	NN	O	O
+是什么	NN	O	O
+意思	NN	O	O
+
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+如何	VV	O	O
+关联	NN	O	O
+号码	NN	O	O
+
+如何	AD	O	O
+解除	VV	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+关联	NN	O	O
+号码	NN	O	O
+
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+无法	AD	O	O
+关联	NN	O	O
+号码	NN	O	O
+怎么	AD	O	O
+解决	VV	O	O
+
+新装	NN	O	O
+宽带	NN	O	O
+进度	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+流量	NN	O	B-BUS
+使用情况	NN	O	I-BUS
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+当前	NT	O	O
+的	DEG	O	O
+欠费	NN	O	O
+情况	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+消费	NN	O	O
+清单	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+话费	NN	O	O
+余额	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+套餐	NN	O	O
+使用情况	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+余额	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+近期	NT	O	O
+的	DEG	O	O
+账单	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+使用	VV	O	O
+awifi	NR	O	O
+上网	VV	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	VV	O	O
+关联	NN	O	O
+号码	NN	O	O
+
+目前	NT	O	O
+有	VE	O	O
+哪些	DT	O	O
+免费	JJ	O	O
+流量	NN	O	B-BUS
+的	DEG	O	I-BUS
+活动	NN	O	I-BUS
+
+你们	PN	O	O
+电信	NN	O	O
+有	VE	O	O
+微	JJ	O	O
+信	NN	O	O
+客服	VV	O	O
+吗	SP	O	O
+
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+上	LC	O	O
+可以	VV	O	O
+了解	VV	O	O
+到	VV	O	O
+近期	NT	O	O
+的	DEG	O	O
+活动	NN	O	O
+吗	SP	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+修	VV	O	O
+障	NN	O	O
+进度	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+装移机	NN	O	O
+进度	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+报修	VV	O	O
+宽带	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+催	VV	O	O
+修	VV	O	O
+宽带	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查看	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+宽带	NN	O	O
+情况	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+重置	VV	O	O
+我	PN	O	O
+的	DEG	O	O
+宽带	NN	O	O
+密码	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+江苏	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+进行	VV	O	O
+密码	NN	O	O
+重置	NN	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+客服	NN	O	O
+微	AD	O	O
+信	VV	O	O
+公众	NN	O	O
+号	NN	O	O
+如何	AD	O	O
+查询	VV	O	O
+附近	NN	O	O
+的	DEG	O	O
+营业厅	NN	O	O
+信息	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+爱听	VV	O	I-BUS
+4g	JJ	O	I-BUS
+业务	NN	O	I-BUS
+
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+爱听	VV	O	I-BUS
+4g	JJ	O	I-BUS
+客户端	NN	O	I-BUS
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+办理	VV	O	O
+爱	NN	O	B-BUS
+音乐	NN	O	I-BUS
+爱听	VV	O	I-BUS
+4g	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+怎么	AD	O	O
+取消	VV	O	O
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+爱听	VV	O	I-BUS
+4g	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+怎么	AD	O	O
+下载	VV	O	O
+爱	VV	O	B-BUS
+音乐	NN	O	I-BUS
+爱听	VV	O	I-BUS
+4g	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+通过	P	O	O
+wap	NN	O	O
+门户	NN	O	O
+如何	AD	O	O
+下载	VV	O	O
+爱听	VV	O	B-BUS
+4g	JJ	O	I-BUS
+客户端	NN	O	I-BUS
+
+通过	P	O	O
+web	NN	O	O
+门户	NN	O	O
+如何	AD	O	O
+下载	VV	O	O
+爱听	VV	O	B-BUS
+4g	JJ	O	I-BUS
+客户端	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+天翼	NN	O	B-BUS
+呼叫转移	VV	O	I-BUS
+遇	VV	O	I-BUS
+忙	NN	O	I-BUS
+无条件	JJ	O	I-BUS
+无人	JJ	O	I-BUS
+应答	NN	O	I-BUS
+不可	VV	O	I-BUS
+及	CC	O	I-BUS
+
+天翼	NN	O	O
+呼叫转移	VV	O	O
+遇	VV	O	O
+忙	NN	O	O
+无条件	JJ	O	O
+无人	JJ	O	O
+应答	NN	O	O
+不可	VV	O	O
+及	CC	O	O
+是	VC	O	O
+如何	AD	O	O
+收费	VV	O	O
+的	SP	O	O
+
+怎样	AD	O	O
+开通	VV	O	O
+天翼	NN	O	O
+呼叫转移	VV	O	O
+遇	VV	O	O
+忙	NN	O	O
+无条件	JJ	O	O
+无人	JJ	O	O
+应答	NN	O	O
+不可	VV	O	O
+及	CC	O	O
+
+开通	VV	O	O
+天翼	NN	O	O
+无条件	AD	O	O
+呼叫转移	VV	O	O
+功能	NN	O	O
+请问	AD	O	O
+设置	VV	O	O
+方式	NN	O	O
+是什么	VV	O	O
+
+如何	AD	O	O
+设置	VV	O	O
+天翼	NN	O	O
+不可	VV	O	O
+及	CC	O	O
+转移	VV	O	O
+
+怎么	AD	O	O
+取消	VV	O	O
+天翼	NN	O	B-BUS
+呼叫转移	VV	O	I-BUS
+遇	VV	O	I-BUS
+忙	NN	O	I-BUS
+无条件	JJ	O	I-BUS
+无人	JJ	O	I-BUS
+应答	NN	O	I-BUS
+不可	VV	O	I-BUS
+及	CC	O	I-BUS
+
+如何	AD	O	O
+取消	VV	O	O
+已设置	JJ	O	O
+的	DEG	O	O
+天翼	NN	O	O
+无条件	AD	O	O
+呼叫转移	VV	O	O
+
+通过	P	O	O
+中国电信	NR	O	O
+欢	VV	O	B-BUS
+go	VV	O	I-BUS
+网站	NN	O	I-BUS
+www.189.cn	NN	O	O
+如何	AD	O	O
+开通	VV	O	O
+无条件	JJ	O	O
+呼叫转移	NN	O	O
+业务	NN	O	O
+
+通过	P	O	O
+天翼	NN	O	B-BUS
+生活	NN	O	I-BUS
+客户端	NN	O	I-BUS
+如何	AD	O	O
+开通	VV	O	O
+无条件	JJ	O	O
+呼叫转移	NN	O	O
+
+手机	NN	O	O
+开通	VV	O	O
+遇	VV	O	O
+忙	NN	O	O
+呼叫转移	NN	O	O
+功能	NN	O	O
+后	LC	O	O
+如何	AD	O	O
+使用	VV	O	O
+
+手机	NN	O	O
+开通	VV	O	O
+无条件	JJ	O	O
+呼叫转移	NN	O	O
+功能	NN	O	O
+后	LC	O	O
+如何	AD	O	O
+使用	VV	O	O
+
+手机	NN	O	O
+开通	VV	O	O
+无应答	VV	O	O
+呼叫转移	NN	O	O
+功能	NN	O	O
+后	LC	O	O
+如何	AD	O	O
+使用	VV	O	O
+
+什么	PN	O	O
+是	VC	O	O
+中国电信	NR	O	B-BUS
+掌上	NN	O	I-BUS
+营业厅	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+办理	VV	O	O
+中国电信	NR	O	O
+掌上	NN	O	O
+营业厅	NN	O	O
+客户端	NN	O	O
+的	DEG	O	O
+首月	NN	O	O
+怎么	AD	O	O
+收费	VV	O	O
+
+中国电信	NR	O	O
+掌上	VV	O	O
+营业厅	NN	O	O
+客户端	NN	O	O
+的	DEG	O	O
+费	NN	O	O
+用是	AD	O	O
+如何	AD	O	O
+收取	VV	O	O
+的	SP	O	O
+
+怎么	AD	O	O
+下载	VV	O	O
+中国电信	NN	O	B-BUS
+掌上	NN	O	I-BUS
+营业厅	NN	O	I-BUS
+客户端	NN	O	I-BUS
+
+什么	PN	O	O
+是	VC	O	O
+智	NN	O	O
+机	NN	O	O
+通	VV	O	O
+基本	JJ	O	O
+型	NN	O	O
+业务	NN	O	O
+能不能	NN	O	O
+说的	VV	O	O
+形象	NN	O	O
+一点	CD	O	O
+
+智	NN	O	O
+机	NN	O	O
+通	VV	O	O
+基本	JJ	O	O
+型	NN	O	O
+业务	NN	O	O
+卖	VV	O	O
+的	DEC	O	O
+上	DT	O	O
+网卡	NN	O	O
+在	P	O	O
+外观	NN	O	O
+和	CC	O	O
+功能上	NN	O	O
+与	CC	O	O
+普通	NN	O	O
+上	LC	O	O
+网卡	NN	O	O
+有没有	VV	O	O
+区别	NN	O	O
+
+智	NN	O	O
+机	NN	O	O
+通	VV	O	O
+基本	JJ	O	O
+型	NN	O	O
+业务	NN	O	O
+和	CC	O	O
+普通	NN	O	O
+上	LC	O	O
+网卡	NN	O	O
+业务	NN	O	O
+的	DEC	O	O
+资费	NN	O	O
+有	VE	O	O
+何	DT	O	O
+不同	VA	O	O
+
+哪些	DT	O	O
+行业	NN	O	O
+应用	NN	O	O
+适合	VV	O	O
+推广	NN	O	O
+智	NN	O	O
+机	NN	O	O
+通	VV	O	O
+基本	JJ	O	O
+型	NN	O	O
+业务	NN	O	O
+
+什么	PN	O	O
+是	VC	O	O
+智	NN	O	O
+机	NN	O	O
+通	VV	O	O
+管理	NN	O	O
+型	NN	O	O
+业务	NN	O	O
+能不能	NN	O	O
+说的	VV	O	O
+简单	VA	O	O
+一点	AD	O	O
+
