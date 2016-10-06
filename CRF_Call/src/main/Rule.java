@@ -20,12 +20,12 @@ import java.util.Iterator;
  */
 public class Rule {
 	public static HashSet<String> rule(String fileTo) {
-		
+
 		Rule rule = new Rule();
 		HashSet<String> rEn = new HashSet<String>();
 		rEn=rule.getRule(fileTo);
 		return rEn;
-		
+
 	}
 	//获取role
 	public HashSet<String>  getRule(String fileTo){
@@ -48,10 +48,10 @@ public class Rule {
 		String context = getXml(fileTo);
 		HashSet<String> ruleEn = new HashSet<String>();
 		return ruleEn=calculate(roleBMap, roleEMap, context);
-		
+
 	}
 	public String getXml(String fileTo){
-//		String filePath = "lib//test.txt";			//获取语料路径
+		//		String filePath = "lib//test.txt";			//获取语料路径
 		String context="";
 		try {
 			//String encoding="ANSI";
@@ -59,12 +59,12 @@ public class Rule {
 			if(file.isFile() && file.exists()){
 				InputStreamReader read = new InputStreamReader(
 						new FileInputStream(file),"gb2312");
-						BufferedReader bufferedReader = new BufferedReader(read);
-						String lineTxt = null;
-						while((lineTxt = bufferedReader.readLine()) != null){
-							context+=lineTxt;  
-						}
-						read.close();
+				BufferedReader bufferedReader = new BufferedReader(read);
+				String lineTxt = null;
+				while((lineTxt = bufferedReader.readLine()) != null){
+					context+=lineTxt;  
+				}
+				read.close();
 			}else{
 				System.out.println("找不到指定的文件");
 			}
@@ -72,61 +72,61 @@ public class Rule {
 			System.out.println("读取文件内容出错");
 			e.printStackTrace();
 		}
-	return context;
+		return context;
 	}
-//	读取文本保存为arraylist
+	//	读取文本保存为arraylist
 	public  ArrayList<String> readTxtFile(String filePath){
 		ArrayList<String> arr = new ArrayList<String>();
 		try {
-				//String encoding="ANSI";
-				File file=new File(filePath);
-				if(file.isFile() && file.exists()){
-					InputStreamReader read = new InputStreamReader(
-							new FileInputStream(file));
-							BufferedReader bufferedReader = new BufferedReader(read);
-							String lineTxt = null;
-							while((lineTxt = bufferedReader.readLine()) != null){
-								arr.add(lineTxt);
-							}
-							read.close();
-				}else{
-					System.out.println("找不到指定的文件");
+			//String encoding="ANSI";
+			File file=new File(filePath);
+			if(file.isFile() && file.exists()){
+				InputStreamReader read = new InputStreamReader(
+						new FileInputStream(file));
+				BufferedReader bufferedReader = new BufferedReader(read);
+				String lineTxt = null;
+				while((lineTxt = bufferedReader.readLine()) != null){
+					arr.add(lineTxt);
 				}
-			} catch (Exception e) {
-				System.out.println("读取文件内容出错");
-				e.printStackTrace();
+				read.close();
+			}else{
+				System.out.println("找不到指定的文件");
 			}
+		} catch (Exception e) {
+			System.out.println("读取文件内容出错");
+			e.printStackTrace();
+		}
 		return arr;
 	}
-//	计算
+	//	计算
 	public HashSet<String> calculate(HashMap<String,Double> rb,HashMap<String,Double> re ,String context){
 		ArrayList<String> b = new ArrayList<String>();
 		HashSet<String> ent = new HashSet<String>();
 		Iterator it = rb.keySet().iterator();
 		while(it.hasNext()){
-		String key = (String) it.next();
-		if(context.contains(key)){
-			String en = context.substring(context.indexOf(key), context.indexOf(key)+15);
-//			System.out.println(en);
+			String key = (String) it.next();
+			if(context.contains(key)){
+				String en = context.substring(context.indexOf(key), context.indexOf(key)+15);
+				//			System.out.println(en);
 				b.add(en);
 			}
 		}
-		
+
 		for (String string : b) {
 			Iterator it1 = re.keySet().iterator();
 			while(it1.hasNext()){
 				String key = (String) it1.next();
 				if(string.contains(key)){
 					String en = string.substring(0, string.indexOf(key)+key.length());
-//					System.out.println(en);
+					//					System.out.println(en);
 					ent.add(en);
 					break;
-					}
 				}
-		
+			}
+
 		}
 		return ent;
-	
-		
+
+
 	}
 }

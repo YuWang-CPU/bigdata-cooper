@@ -14,7 +14,7 @@
 	——————————Rule.java			完成规则实体识别功能
 	——————————StanfrodChinesePosTest.java  词性标注工具
 	——————tagger				stanford词性标注必要文件
-	——————test.dic				分词工具必要文件（词典、停用词）
+	——————test/dic				分词工具必要文件（词典、停用词）
 	——————IKAnalyzer.cfg.xml	分词工具必要文件
 	——————IKAnalyzer.cfg.xml.bak	分词工具必要文件
 	————lib
